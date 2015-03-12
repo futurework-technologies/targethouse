@@ -1,0 +1,2741 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-02-28 19:10-0700\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/ArticlesController.php:38
+msgid "The Article has been saved"
+msgstr ""
+
+#: Controller/ArticlesController.php:41
+msgid "The Article could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/BannersController.php:54;86;111;142;186;211
+#: Controller/UsersController.php:191;380;406;438;472;497
+msgid "Invalid user"
+msgstr ""
+
+#: Controller/BannersController.php:69;90;190
+#: Controller/UsersController.php:207;384;454;476
+msgid "The user has been saved."
+msgstr ""
+
+#: Controller/BannersController.php:72;93;193
+#: Controller/UsersController.php:210;387;457;479
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/BannersController.php:115;215
+#: Controller/UsersController.php:410;501
+msgid "The user has been deleted."
+msgstr ""
+
+#: Controller/BannersController.php:117;217
+#: Controller/UsersController.php:412;503
+msgid "The user could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/BannersController.php:164
+msgid "The Banner has been saved"
+msgstr ""
+
+#: Controller/BannersController.php:167
+msgid "The Banner could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CategoriesController.php:56;94;119;151;192;231
+msgid "Invalid category"
+msgstr ""
+
+#: Controller/CategoriesController.php:77;98;209
+msgid "The category has been saved."
+msgstr ""
+
+#: Controller/CategoriesController.php:80;101;212
+msgid "The category could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CategoriesController.php:123;235
+msgid "The category has been deleted."
+msgstr ""
+
+#: Controller/CategoriesController.php:125;237
+msgid "The category could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/CategoriesController.php:173
+msgid "The Category has been saved"
+msgstr ""
+
+#: Controller/CategoriesController.php:176
+msgid "The Category could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ContactsController.php:45;77;102;134;166;191
+#: Controller/CoupansController.php:70;102;127;159;192;217
+msgid "Invalid contact"
+msgstr ""
+
+#: Controller/ContactsController.php:60;81;149;170
+#: Controller/CoupansController.php:85;106;196
+msgid "The contact has been saved."
+msgstr ""
+
+#: Controller/ContactsController.php:63;84;152;173
+#: Controller/CoupansController.php:88;109;199
+msgid "The contact could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ContactsController.php:106;195
+#: Controller/CoupansController.php:131;221
+msgid "The contact has been deleted."
+msgstr ""
+
+#: Controller/ContactsController.php:108;197
+#: Controller/CoupansController.php:133;223
+msgid "The contact could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ContentsController.php:56;90;117;150;191;218
+#: Controller/ProductsController.php:82;116;143;176;230;258
+msgid "Invalid product"
+msgstr ""
+
+#: Controller/ContentsController.php:71;94;195
+#: Controller/ProductsController.php:97;120;234
+msgid "The product has been saved."
+msgstr ""
+
+#: Controller/ContentsController.php:74;97;198
+#: Controller/ProductsController.php:100;123;237
+msgid "The product could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ContentsController.php:121;222
+#: Controller/ProductsController.php:147;262
+msgid "The product has been deleted."
+msgstr ""
+
+#: Controller/ContentsController.php:123;224
+#: Controller/ProductsController.php:149;264
+msgid "The product could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ContentsController.php:172
+msgid "The Content has been saved"
+msgstr ""
+
+#: Controller/ContentsController.php:175
+msgid "The Content could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CoupansController.php:175
+msgid "The coupan has been saved."
+msgstr ""
+
+#: Controller/CoupansController.php:178
+msgid "The coupan could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/DetailsController.php:57;89;114;144;176;201
+#: Controller/PdetailsController.php:45;77;117;148;212;237
+msgid "Invalid detail"
+msgstr ""
+
+#: Controller/DetailsController.php:72;93;159;180
+#: Controller/PdetailsController.php:60;81;216
+msgid "The detail has been saved."
+msgstr ""
+
+#: Controller/DetailsController.php:75;96;162;183
+#: Controller/PdetailsController.php:63;84;219
+msgid "The detail could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/DetailsController.php:118;205
+#: Controller/PdetailsController.php:121;241
+msgid "The detail has been deleted."
+msgstr ""
+
+#: Controller/DetailsController.php:120;207
+#: Controller/PdetailsController.php:123;243
+msgid "The detail could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/InlineitemsController.php:118
+#: Controller/OrdersController.php:43
+msgid "Your Payment Failed.Please, try again."
+msgstr ""
+
+#: Controller/InlineitemsController.php:453
+msgid "Invalid item"
+msgstr ""
+
+#: Controller/MapsController.php:21
+msgid "Invalid map"
+msgstr ""
+
+#: Controller/MapsController.php:45
+msgid "Data  Successfully sent"
+msgstr ""
+
+#: Controller/MapsController.php:51
+msgid "The user has not been saved"
+msgstr ""
+
+#: Controller/NewsController.php:40;72;97;128;160;185
+msgid "Invalid News"
+msgstr ""
+
+#: Controller/NewsController.php:55;76;143;164
+msgid "The News has been saved."
+msgstr ""
+
+#: Controller/NewsController.php:58;79;146;167
+msgid "The News could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/NewsController.php:101;189
+msgid "The News has been deleted."
+msgstr ""
+
+#: Controller/NewsController.php:103;191
+msgid "The News could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/NewslettersController.php:38;72;99;131;167;195
+msgid "Invalid newsletter"
+msgstr ""
+
+#: Controller/NewslettersController.php:53;76;147;171
+msgid "The newsletter has been saved."
+msgstr ""
+
+#: Controller/NewslettersController.php:56;79;150;174
+msgid "The newsletter could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/NewslettersController.php:103;199
+msgid "The newsletter has been deleted."
+msgstr ""
+
+#: Controller/NewslettersController.php:105;201
+msgid "The newsletter could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/OrdersController.php:88
+#: Controller/PaymentsController.php:45
+msgid "Invalid payment"
+msgstr ""
+
+#: Controller/OrdersController.php:102;118
+#: Controller/PaymentsController.php:60;77
+#: Controller/UsersController.php:346;362
+msgid "Activated successfully."
+msgstr ""
+
+#: Controller/OrdersController.php:105;121
+#: Controller/PaymentsController.php:63;80
+#: Controller/UsersController.php:349;365
+msgid "Unable to activate."
+msgstr ""
+
+#: Controller/PdetailsController.php:184
+msgid "The Pdetail has been saved"
+msgstr ""
+
+#: Controller/PdetailsController.php:187
+msgid "The Pdetail could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ProductsController.php:205
+msgid "The Product has been saved"
+msgstr ""
+
+#: Controller/ProductsController.php:208
+msgid "The Product could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/SlidersController.php:38;70;95;125;163;188
+msgid "Invalid slider"
+msgstr ""
+
+#: Controller/SlidersController.php:53;74;146;167
+msgid "The slider has been saved."
+msgstr ""
+
+#: Controller/SlidersController.php:56;77;149;170
+msgid "The slider could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/SlidersController.php:99;192
+msgid "The slider has been deleted."
+msgstr ""
+
+#: Controller/SlidersController.php:101;194
+msgid "The slider could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/SubcategoriesController.php:24
+msgid "The Subcategory has been saved"
+msgstr ""
+
+#: Controller/SubcategoriesController.php:24
+msgid "The Subcategory could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/SubscribersController.php:93;125;150;186;220;246
+msgid "Invalid subscriber"
+msgstr ""
+
+#: Controller/SubscribersController.php:108;129;202;224
+msgid "The subscriber has been saved."
+msgstr ""
+
+#: Controller/SubscribersController.php:111;132;205;227
+msgid "The subscriber could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/SubscribersController.php:154;250
+msgid "The subscriber has been deleted."
+msgstr ""
+
+#: Controller/SubscribersController.php:156;252
+msgid "The subscriber could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:516
+msgid "New password and Confirm password field do not match"
+msgstr ""
+
+#: Controller/UsersController.php:523
+msgid "Password Updated"
+msgstr ""
+
+#: Controller/UsersController.php:529
+msgid "Your old password did not match."
+msgstr ""
+
+#: Controller/payment.ctp:89
+#: View/Articles/admin_index.ctp:78
+#: View/Articles/index.ctp:39
+#: View/Banners/admin_index.ctp:36
+#: View/Categories/admin_index.ctp:78
+#: View/Categories/index.ctp:39
+#: View/Categories - Copy/admin_index.ctp:78
+#: View/Contacts/admin_index.ctp:76
+#: View/Contacts/index.ctp:45
+#: View/Contacts/newCtpTemplatefe.ctp:45
+#: View/Contacts - Copy/admin_index.ctp:76
+#: View/Contacts - Copy/index.ctp:45
+#: View/Contacts - Copy/newCtpTemplatefe.ctp:45
+#: View/Contents/admin_index.ctp:75
+#: View/Contents/index.ctp:43
+#: View/Coupans/admin_index.ctp:76
+#: View/Coupans/index.ctp:45
+#: View/Coupans/newCtpTemplatefe.ctp:45
+#: View/Details/admin_index.ctp:45
+#: View/Details/index.ctp:45
+#: View/Inlineitems/orderitem.ctp:181
+#: View/Newsletters/index.ctp:43
+#: View/Orders/admin_index.ctp:113
+#: View/Payments/payment.ctp:123
+#: View/Pdetails/admin_index.ctp:103
+#: View/Pdetails/index.ctp:45
+#: View/Products/admin_index.ctp:80
+#: View/Products/grege.ctp:54
+#: View/Products/index.ctp:43
+#: View/Products - Copy/index.ctp:43
+#: View/Sliders/admin_index.ctp:39
+#: View/Sliders/index.ctp:39
+#: View/Subcategories/admin_index.ctp:39
+#: View/Subcategories/index.ctp:39
+#: View/Subscribers/admin_index.ctp:72
+#: View/Subscribers/index.ctp:37
+#: View/Users/admin_index.ctp:83
+#: View/Users/index.ctp:50
+msgid "previous"
+msgstr ""
+
+#: Controller/payment.ctp:91
+#: View/Articles/admin_index.ctp:80
+#: View/Articles/index.ctp:41
+#: View/Banners/admin_index.ctp:38
+#: View/Categories/admin_index.ctp:80
+#: View/Categories/index.ctp:41
+#: View/Categories - Copy/admin_index.ctp:80
+#: View/Contacts/admin_index.ctp:78
+#: View/Contacts/index.ctp:47
+#: View/Contacts/newCtpTemplatefe.ctp:47
+#: View/Contacts - Copy/admin_index.ctp:78
+#: View/Contacts - Copy/index.ctp:47
+#: View/Contacts - Copy/newCtpTemplatefe.ctp:47
+#: View/Contents/admin_index.ctp:77
+#: View/Contents/index.ctp:45
+#: View/Coupans/admin_index.ctp:78
+#: View/Coupans/index.ctp:47
+#: View/Coupans/newCtpTemplatefe.ctp:47
+#: View/Details/admin_index.ctp:47
+#: View/Details/index.ctp:47
+#: View/Inlineitems/orderitem.ctp:183
+#: View/Newsletters/index.ctp:45
+#: View/Orders/admin_index.ctp:115
+#: View/Payments/payment.ctp:125
+#: View/Pdetails/admin_index.ctp:105
+#: View/Pdetails/index.ctp:47
+#: View/Products/admin_index.ctp:82
+#: View/Products/grege.ctp:56
+#: View/Products/index.ctp:45
+#: View/Products - Copy/index.ctp:45
+#: View/Sliders/admin_index.ctp:41
+#: View/Sliders/index.ctp:41
+#: View/Subcategories/admin_index.ctp:41
+#: View/Subcategories/index.ctp:41
+#: View/Subscribers/admin_index.ctp:74
+#: View/Subscribers/index.ctp:39
+#: View/Users/admin_index.ctp:85
+#: View/Users/index.ctp:52
+msgid "next"
+msgstr ""
+
+#: View/Articles/add.ctp:4
+#: View/Categories/add.ctp:4
+#: View/Categories - Copy/add.ctp:4
+msgid "Add Category"
+msgstr ""
+
+#: View/Articles/add.ctp:12
+#: View/Articles/admin_edit.ctp:13
+#: View/Articles/edit.ctp:13
+#: View/Banners/admin_edit.ctp:13
+#: View/Categories/add.ctp:12
+#: View/Categories/admin_edit.ctp:13
+#: View/Categories/edit.ctp:13
+#: View/Categories - Copy/add.ctp:12
+#: View/Categories - Copy/admin_edit.ctp:13
+#: View/Categories - Copy/edit.ctp:13
+#: View/Contacts/add.ctp:15
+#: View/Contacts/admin_add.ctp:15
+#: View/Contacts/admin_edit.ctp:16
+#: View/Contacts/edit.ctp:16
+#: View/Contacts - Copy/admin_add.ctp:15
+#: View/Contacts - Copy/admin_edit.ctp:16
+#: View/Contents/add.ctp:13
+#: View/Contents/admin_edit.ctp:12
+#: View/Contents/edit.ctp:14
+#: View/Coupans/add.ctp:15
+#: View/Coupans/admin_edit.ctp:16
+#: View/Coupans/edit.ctp:16
+#: View/Details/add.ctp:14
+#: View/Details/admin_add.ctp:15
+#: View/Details/admin_edit.ctp:15
+#: View/Details/edit.ctp:15
+#: View/Newsletters/add.ctp:13
+#: View/Newsletters/edit.ctp:14
+#: View/Newsletters/newCtpTemplatexvcvvv.ctp:23
+#: View/Pdetails/add.ctp:14
+#: View/Pdetails/edit.ctp:15
+#: View/Pdetails/fs.ctp:39
+#: View/Products/add.ctp:13
+#: View/Products/admin_edit.ctp:14
+#: View/Products/edit.ctp:14
+#: View/Products/greg.ctp:13
+#: View/Products/product_detail.ctp:73
+#: View/Products - Copy/add.ctp:13
+#: View/Products - Copy/admin_edit.ctp:14
+#: View/Products - Copy/edit.ctp:14
+#: View/Products - Copy/greg.ctp:13
+#: View/Sliders/add.ctp:11
+#: View/Sliders/admin_add.ctp:11
+#: View/Sliders/admin_edit.ctp:12
+#: View/Sliders/edit.ctp:12
+#: View/Subcategories/add.ctp:11
+#: View/Subcategories/admin_edit.ctp:12
+#: View/Subcategories/edit.ctp:12
+#: View/Subcategories/fdsfsff.ctp:11
+#: View/Subscribers/add.ctp:11
+#: View/Subscribers/admin_edit.ctp:21
+#: View/Subscribers/edit.ctp:12
+#: View/Users/add.ctp:13
+#: View/Users/dfgd.ctp:22
+#: View/Users/edit.ctp:14
+msgid "Submit"
+msgstr ""
+
+#: View/Articles/add.ctp:15
+#: View/Articles/admin_edit.ctp:16
+#: View/Articles/admin_view.ctp:32
+#: View/Articles/edit.ctp:16
+#: View/Articles/index.ctp:11;46
+#: View/Banners/admin_edit.ctp:16
+#: View/Banners/admin_index.ctp:10;43
+#: View/Banners/admin_view.ctp:29
+#: View/Categories/add.ctp:15
+#: View/Categories/admin_edit.ctp:16
+#: View/Categories/admin_view.ctp:32
+#: View/Categories/edit.ctp:16
+#: View/Categories/index.ctp:11;46
+#: View/Categories - Copy/add.ctp:15
+#: View/Categories - Copy/admin_edit.ctp:16
+#: View/Categories - Copy/edit.ctp:16
+#: View/Contacts/add.ctp:18
+#: View/Contacts/admin_add.ctp:18
+#: View/Contacts/admin_edit.ctp:19
+#: View/Contacts/admin_index.ctp:48
+#: View/Contacts/edit.ctp:19
+#: View/Contacts/index.ctp:14;52
+#: View/Contacts/newCtpTemplatefe.ctp:14;52
+#: View/Contacts/view.ctp:47
+#: View/Contacts - Copy/admin_add.ctp:18
+#: View/Contacts - Copy/admin_edit.ctp:19
+#: View/Contacts - Copy/admin_index.ctp:48
+#: View/Contacts - Copy/index.ctp:14;52
+#: View/Contacts - Copy/newCtpTemplatefe.ctp:14;52
+#: View/Contacts - Copy/view.ctp:47
+#: View/Contents/add.ctp:16
+#: View/Contents/admin_edit.ctp:15
+#: View/Contents/admin_view.ctp:37
+#: View/Contents/edit.ctp:17
+#: View/Contents/index.ctp:12;50
+#: View/Contents/view.ctp:37
+#: View/Coupans/add.ctp:18
+#: View/Coupans/admin_edit.ctp:19
+#: View/Coupans/admin_index.ctp:48
+#: View/Coupans/edit.ctp:19
+#: View/Coupans/index.ctp:14;52
+#: View/Coupans/newCtpTemplatefe.ctp:14;52
+#: View/Coupans/view.ctp:47
+#: View/Details/add.ctp:17
+#: View/Details/admin_add.ctp:18
+#: View/Details/admin_edit.ctp:18
+#: View/Details/admin_index.ctp:14;52
+#: View/Details/admin_view.ctp:47
+#: View/Details/edit.ctp:18
+#: View/Details/index.ctp:14;52
+#: View/Details/view.ctp:47
+#: View/Newsletters/add.ctp:16
+#: View/Newsletters/admin_view.ctp:46
+#: View/Newsletters/edit.ctp:17
+#: View/Newsletters/index.ctp:12;50
+#: View/Newsletters/newCtpTemplatexvcvvv.ctp:26
+#: View/Newsletters/view.ctp:37
+#: View/Pdetails/add.ctp:17
+#: View/Pdetails/admin_view.ctp:47
+#: View/Pdetails/edit.ctp:18
+#: View/Pdetails/fs.ctp:42
+#: View/Pdetails/index.ctp:14;52
+#: View/Pdetails/view.ctp:47
+#: View/Products/add.ctp:16
+#: View/Products/admin_edit.ctp:17
+#: View/Products/edit.ctp:17
+#: View/Products/greg.ctp:16
+#: View/Products/grege.ctp:23;61
+#: View/Products/index.ctp:12;50
+#: View/Products/view.ctp:37
+#: View/Products - Copy/add.ctp:16
+#: View/Products - Copy/admin_edit.ctp:17
+#: View/Products - Copy/admin_view.ctp:37
+#: View/Products - Copy/edit.ctp:17
+#: View/Products - Copy/greg.ctp:16
+#: View/Products - Copy/index.ctp:12;50
+#: View/Products - Copy/view.ctp:37
+#: View/Sliders/add.ctp:14
+#: View/Sliders/admin_add.ctp:14
+#: View/Sliders/admin_edit.ctp:15
+#: View/Sliders/admin_index.ctp:11;46
+#: View/Sliders/admin_view.ctp:32
+#: View/Sliders/edit.ctp:15
+#: View/Sliders/index.ctp:11;46
+#: View/Sliders/view.ctp:32
+#: View/Subcategories/add.ctp:14
+#: View/Subcategories/admin_edit.ctp:15
+#: View/Subcategories/admin_index.ctp:10;46
+#: View/Subcategories/admin_view.ctp:27
+#: View/Subcategories/edit.ctp:15
+#: View/Subcategories/fdsfsff.ctp:14
+#: View/Subcategories/index.ctp:10;46
+#: View/Subcategories/view.ctp:27
+#: View/Subscribers/add.ctp:14
+#: View/Subscribers/admin_edit.ctp:24
+#: View/Subscribers/admin_view.ctp:37
+#: View/Subscribers/edit.ctp:15
+#: View/Subscribers/index.ctp:10;44
+#: View/Subscribers/view.ctp:27
+#: View/Users/add.ctp:16
+#: View/Users/dfgd.ctp:25
+#: View/Users/edit.ctp:17
+#: View/Users/index.ctp:21;57
+#: View/Users/newCtpTemplategder.ctp:53
+#: View/Users/view.ctp:37
+msgid "Actions"
+msgstr ""
+
+#: View/Articles/add.ctp:18
+#: View/Articles/admin_edit.ctp:20
+#: View/Articles/admin_view.ctp:36
+#: View/Articles/edit.ctp:20
+#: View/Categories/add.ctp:18
+#: View/Categories/admin_edit.ctp:20
+#: View/Categories/admin_view.ctp:36
+#: View/Categories/edit.ctp:20
+#: View/Categories - Copy/add.ctp:18
+#: View/Categories - Copy/admin_edit.ctp:20
+#: View/Categories - Copy/edit.ctp:20
+#: View/Subcategories/add.ctp:18
+#: View/Subcategories/admin_edit.ctp:20
+#: View/Subcategories/admin_index.ctp:49
+#: View/Subcategories/admin_view.ctp:33
+#: View/Subcategories/edit.ctp:20
+#: View/Subcategories/fdsfsff.ctp:18
+#: View/Subcategories/index.ctp:49
+#: View/Subcategories/view.ctp:33
+msgid "List Categories"
+msgstr ""
+
+#: View/Articles/admin_add.ctp:13
+msgid "Add Articles"
+msgstr ""
+
+#: View/Articles/admin_add.ctp:34
+#: View/Details/detail_form.ctp:18;28;39;50;64
+#: View/Pages/detail_form.ctp:8;18;29;40;51
+#: View/Pdetails/admin_add.ctp:26
+#: View/Pdetails/admin_edit.ctp:34
+#: View/Pdetails/detail_form.ctp:18;28;39;50;64
+#: View/Pdetails/submit_form.ctp:49
+#: View/Products/admin_add.ctp:47;59
+#: View/Subcategories/admin_add.ctp:44
+msgid "Select"
+msgstr ""
+
+#: View/Articles/admin_add.ctp:44
+msgid "Add Article"
+msgstr ""
+
+#: View/Articles/admin_add.ctp:48
+#: View/Categories/admin_add.ctp:37
+msgid "File"
+msgstr ""
+
+#: View/Articles/admin_add.ctp:58
+#: View/Categories/admin_add.ctp:50
+#: View/Coupans/admin_add.ctp:58
+#: View/Products/admin_add.ctp:94
+msgid " Save"
+msgstr ""
+
+#: View/Articles/admin_add.ctp:59
+#: View/Inlineitems/items.ctp:114
+#: View/Pdetails/admin_add.ctp:92
+#: View/Products/admin_add.ctp:95
+msgid "Cancel"
+msgstr ""
+
+#: View/Articles/admin_edit.ctp:4
+#: View/Categories/admin_edit.ctp:4
+#: View/Categories - Copy/admin_edit.ctp:4
+msgid "Admin Edit Category"
+msgstr ""
+
+#: View/Articles/admin_edit.ctp:19
+#: View/Articles/admin_index.ctp:67
+#: View/Articles/edit.ctp:19
+#: View/Articles/index.ctp:25
+#: View/Banners/admin_edit.ctp:19
+#: View/Banners/admin_index.ctp:22
+#: View/Categories/admin_edit.ctp:19
+#: View/Categories/admin_index.ctp:67
+#: View/Categories/edit.ctp:19
+#: View/Categories/index.ctp:25
+#: View/Categories - Copy/admin_edit.ctp:19
+#: View/Categories - Copy/admin_index.ctp:67
+#: View/Categories - Copy/edit.ctp:19
+#: View/Contacts/admin_edit.ctp:22
+#: View/Contacts/admin_index.ctp:65
+#: View/Contacts/edit.ctp:22
+#: View/Contacts/index.ctp:31
+#: View/Contacts/newCtpTemplatefe.ctp:31
+#: View/Contacts - Copy/admin_edit.ctp:22
+#: View/Contacts - Copy/admin_index.ctp:65
+#: View/Contacts - Copy/index.ctp:31
+#: View/Contacts - Copy/newCtpTemplatefe.ctp:31
+#: View/Contents/admin_edit.ctp:18
+#: View/Contents/admin_index.ctp:64
+#: View/Contents/edit.ctp:20
+#: View/Contents/index.ctp:29
+#: View/Coupans/admin_edit.ctp:22
+#: View/Coupans/admin_index.ctp:65
+#: View/Coupans/edit.ctp:22
+#: View/Coupans/index.ctp:31
+#: View/Coupans/newCtpTemplatefe.ctp:31
+#: View/Details/admin_edit.ctp:21
+#: View/Details/admin_index.ctp:31
+#: View/Details/edit.ctp:21
+#: View/Details/index.ctp:31
+#: View/Inlineitems/orderitem.ctp:69
+#: View/Newsletters/admin_index.ctp:73
+#: View/Newsletters/edit.ctp:20
+#: View/Newsletters/index.ctp:29
+#: View/Newsletters/newCtpTemplatexvcvvv.ctp:29
+#: View/Pdetails/admin_index.ctp:92
+#: View/Pdetails/edit.ctp:21
+#: View/Pdetails/index.ctp:31
+#: View/Products/admin_edit.ctp:20
+#: View/Products/admin_index.ctp:69
+#: View/Products/edit.ctp:20
+#: View/Products/grege.ctp:40
+#: View/Products/index.ctp:29
+#: View/Products - Copy/admin_edit.ctp:20
+#: View/Products - Copy/edit.ctp:20
+#: View/Products - Copy/index.ctp:29
+#: View/Sliders/admin_edit.ctp:18
+#: View/Sliders/admin_index.ctp:25
+#: View/Sliders/edit.ctp:18
+#: View/Sliders/index.ctp:25
+#: View/Subcategories/admin_edit.ctp:18
+#: View/Subcategories/admin_index.ctp:25
+#: View/Subcategories/edit.ctp:18
+#: View/Subcategories/index.ctp:25
+#: View/Subscribers/admin_edit.ctp:27
+#: View/Subscribers/admin_index.ctp:61
+#: View/Subscribers/edit.ctp:18
+#: View/Subscribers/index.ctp:23
+#: View/Users/admin_index.ctp:70
+#: View/Users/dfgd.ctp:28
+#: View/Users/edit.ctp:20
+#: View/Users/index.ctp:36
+msgid "Delete"
+msgstr ""
+
+#: View/Articles/admin_edit.ctp:19
+#: View/Articles/admin_index.ctp:67
+#: View/Articles/admin_view.ctp:35
+#: View/Articles/edit.ctp:19
+#: View/Articles/index.ctp:25
+#: View/Banners/admin_edit.ctp:19
+#: View/Banners/admin_index.ctp:22
+#: View/Banners/admin_view.ctp:32
+#: View/Categories/admin_edit.ctp:19
+#: View/Categories/admin_index.ctp:67
+#: View/Categories/admin_view.ctp:35
+#: View/Categories/edit.ctp:19
+#: View/Categories/index.ctp:25
+#: View/Categories - Copy/admin_edit.ctp:19
+#: View/Categories - Copy/admin_index.ctp:67
+#: View/Categories - Copy/edit.ctp:19
+#: View/Contacts/admin_edit.ctp:22
+#: View/Contacts/admin_index.ctp:65
+#: View/Contacts/edit.ctp:22
+#: View/Contacts/index.ctp:31
+#: View/Contacts/newCtpTemplatefe.ctp:31
+#: View/Contacts/view.ctp:50
+#: View/Contacts - Copy/admin_edit.ctp:22
+#: View/Contacts - Copy/admin_index.ctp:65
+#: View/Contacts - Copy/index.ctp:31
+#: View/Contacts - Copy/newCtpTemplatefe.ctp:31
+#: View/Contacts - Copy/view.ctp:50
+#: View/Contents/admin_edit.ctp:18
+#: View/Contents/admin_index.ctp:64
+#: View/Contents/admin_view.ctp:40
+#: View/Contents/edit.ctp:20
+#: View/Contents/index.ctp:29
+#: View/Contents/view.ctp:40
+#: View/Coupans/admin_edit.ctp:22
+#: View/Coupans/admin_index.ctp:65
+#: View/Coupans/edit.ctp:22
+#: View/Coupans/index.ctp:31
+#: View/Coupans/newCtpTemplatefe.ctp:31
+#: View/Coupans/view.ctp:50
+#: View/Details/admin_edit.ctp:21
+#: View/Details/admin_index.ctp:31
+#: View/Details/admin_view.ctp:50
+#: View/Details/edit.ctp:21
+#: View/Details/index.ctp:31
+#: View/Details/view.ctp:50
+#: View/Inlineitems/orderitem.ctp:69
+#: View/Newsletters/admin_index.ctp:73
+#: View/Newsletters/admin_view.ctp:49
+#: View/Newsletters/edit.ctp:20
+#: View/Newsletters/index.ctp:29
+#: View/Newsletters/newCtpTemplatexvcvvv.ctp:29
+#: View/Newsletters/view.ctp:40
+#: View/Pdetails/admin_index.ctp:92
+#: View/Pdetails/admin_view.ctp:50
+#: View/Pdetails/edit.ctp:21
+#: View/Pdetails/index.ctp:31
+#: View/Pdetails/view.ctp:50
+#: View/Products/admin_edit.ctp:20
+#: View/Products/admin_index.ctp:69
+#: View/Products/edit.ctp:20
+#: View/Products/grege.ctp:40
+#: View/Products/index.ctp:29
+#: View/Products/view.ctp:40
+#: View/Products - Copy/admin_edit.ctp:20
+#: View/Products - Copy/admin_view.ctp:40
+#: View/Products - Copy/edit.ctp:20
+#: View/Products - Copy/index.ctp:29
+#: View/Products - Copy/view.ctp:40
+#: View/Sliders/admin_edit.ctp:18
+#: View/Sliders/admin_index.ctp:25
+#: View/Sliders/admin_view.ctp:35
+#: View/Sliders/edit.ctp:18
+#: View/Sliders/index.ctp:25
+#: View/Sliders/view.ctp:35
+#: View/Subcategories/admin_edit.ctp:18
+#: View/Subcategories/admin_index.ctp:25
+#: View/Subcategories/admin_view.ctp:30
+#: View/Subcategories/edit.ctp:18
+#: View/Subcategories/index.ctp:25
+#: View/Subcategories/view.ctp:30
+#: View/Subscribers/admin_edit.ctp:27
+#: View/Subscribers/admin_index.ctp:61
+#: View/Subscribers/admin_view.ctp:40
+#: View/Subscribers/edit.ctp:18
+#: View/Subscribers/index.ctp:23
+#: View/Subscribers/view.ctp:30
+#: View/Users/admin_index.ctp:70
+#: View/Users/dfgd.ctp:28
+#: View/Users/edit.ctp:20
+#: View/Users/index.ctp:36
+#: View/Users/newCtpTemplategder.ctp:56
+#: View/Users/view.ctp:40
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: View/Articles/admin_index.ctp:65
+#: View/Articles/index.ctp:23
+#: View/Banners/admin_index.ctp:20
+#: View/Categories/admin_index.ctp:65
+#: View/Categories/index.ctp:23
+#: View/Categories - Copy/admin_index.ctp:65
+#: View/Contacts/admin_index.ctp:64
+#: View/Contacts/index.ctp:29
+#: View/Contacts/newCtpTemplatefe.ctp:29
+#: View/Contacts - Copy/admin_index.ctp:64
+#: View/Contacts - Copy/index.ctp:29
+#: View/Contacts - Copy/newCtpTemplatefe.ctp:29
+#: View/Contents/admin_index.ctp:62
+#: View/Contents/index.ctp:27
+#: View/Coupans/admin_index.ctp:64
+#: View/Coupans/index.ctp:29
+#: View/Coupans/newCtpTemplatefe.ctp:29
+#: View/Details/admin_index.ctp:29
+#: View/Details/index.ctp:29
+#: View/Newsletters/admin_index.ctp:72
+#: View/Newsletters/index.ctp:27
+#: View/Payments/payment.ctp:99
+#: View/Pdetails/admin_index.ctp:90
+#: View/Pdetails/index.ctp:29
+#: View/Products/admin_index.ctp:67
+#: View/Products/grege.ctp:38
+#: View/Products/index.ctp:27
+#: View/Products - Copy/index.ctp:27
+#: View/Sliders/admin_index.ctp:23
+#: View/Sliders/index.ctp:23
+#: View/Subcategories/admin_index.ctp:23
+#: View/Subcategories/index.ctp:23
+#: View/Subscribers/admin_index.ctp:59
+#: View/Subscribers/index.ctp:21
+#: View/Users/admin_index.ctp:68
+#: View/Users/index.ctp:34
+msgid "View"
+msgstr ""
+
+#: View/Articles/admin_index.ctp:66
+#: View/Articles/index.ctp:24
+#: View/Banners/admin_index.ctp:21
+#: View/Categories/admin_index.ctp:66
+#: View/Categories/index.ctp:24
+#: View/Categories - Copy/admin_index.ctp:66
+#: View/Contacts/index.ctp:30
+#: View/Contacts/newCtpTemplatefe.ctp:30
+#: View/Contacts - Copy/index.ctp:30
+#: View/Contacts - Copy/newCtpTemplatefe.ctp:30
+#: View/Contents/admin_index.ctp:63
+#: View/Contents/index.ctp:28
+#: View/Coupans/index.ctp:30
+#: View/Coupans/newCtpTemplatefe.ctp:30
+#: View/Details/admin_index.ctp:30
+#: View/Details/index.ctp:30
+#: View/Inlineitems/items.ctp:23
+#: View/Newsletters/index.ctp:28
+#: View/Pdetails/admin_index.ctp:91
+#: View/Pdetails/index.ctp:30
+#: View/Products/admin_index.ctp:68
+#: View/Products/grege.ctp:39
+#: View/Products/index.ctp:28
+#: View/Products - Copy/index.ctp:28
+#: View/Sliders/admin_index.ctp:24
+#: View/Sliders/index.ctp:24
+#: View/Subcategories/admin_index.ctp:24
+#: View/Subcategories/index.ctp:24
+#: View/Subscribers/admin_index.ctp:60
+#: View/Subscribers/index.ctp:22
+#: View/Users/admin_index.ctp:69
+#: View/Users/index.ctp:35
+msgid "Edit"
+msgstr ""
+
+#: View/Articles/admin_view.ctp:2
+#: View/Categories/admin_view.ctp:2
+#: View/Products/product.ctp:8
+msgid "Category"
+msgstr ""
+
+#: View/Articles/admin_view.ctp:4
+#: View/Banners/admin_view.ctp:4
+#: View/Categories/admin_view.ctp:4
+#: View/Contacts/admin_view.ctp:20
+#: View/Contacts/view.ctp:4
+#: View/Contacts - Copy/admin_view.ctp:20
+#: View/Contacts - Copy/view.ctp:4
+#: View/Contents/admin_view.ctp:4
+#: View/Contents/view.ctp:4
+#: View/Coupans/admin_view.ctp:20
+#: View/Coupans/view.ctp:4
+#: View/Details/admin_view.ctp:4
+#: View/Details/view.ctp:4
+#: View/Newsletters/admin_view.ctp:13
+#: View/Newsletters/view.ctp:4
+#: View/Pdetails/admin_view.ctp:4
+#: View/Pdetails/view.ctp:4
+#: View/Products/view.ctp:4
+#: View/Products - Copy/admin_view.ctp:4
+#: View/Products - Copy/view.ctp:4
+#: View/Sliders/admin_view.ctp:4
+#: View/Sliders/view.ctp:4
+#: View/Subcategories/admin_view.ctp:4
+#: View/Subcategories/view.ctp:4
+#: View/Subscribers/admin_view.ctp:14
+#: View/Subscribers/view.ctp:4
+#: View/Users/newCtpTemplategder.ctp:20
+#: View/Users/view.ctp:4
+msgid "Id"
+msgstr ""
+
+#: View/Articles/admin_view.ctp:9
+#: View/Banners/admin_view.ctp:14
+#: View/Categories/admin_view.ctp:9
+#: View/Sliders/admin_view.ctp:9
+#: View/Sliders/view.ctp:9
+msgid "Image"
+msgstr ""
+
+#: View/Articles/admin_view.ctp:14
+#: View/Categories/admin_view.ctp:14
+msgid "Categorie Name"
+msgstr ""
+
+#: View/Articles/admin_view.ctp:19
+#: View/Categories/admin_view.ctp:19
+#: View/Contacts/admin_view.ctp:50
+#: View/Contacts/view.ctp:39
+#: View/Contacts - Copy/admin_view.ctp:50
+#: View/Contacts - Copy/view.ctp:39
+#: View/Coupans/admin_view.ctp:36
+#: View/Coupans/view.ctp:39
+#: View/Subcategories/admin_view.ctp:19
+#: View/Subcategories/view.ctp:19
+#: View/Subscribers/admin_view.ctp:29
+#: View/Subscribers/view.ctp:19
+#: View/Users/newCtpTemplategder.ctp:40
+#: View/Users/view.ctp:24
+msgid "Timestamp"
+msgstr ""
+
+#: View/Articles/admin_view.ctp:24
+#: View/Banners/admin_view.ctp:19
+#: View/Categories/admin_add.ctp:41
+#: View/Categories/admin_view.ctp:24
+msgid "Description"
+msgstr ""
+
+#: View/Articles/admin_view.ctp:34
+#: View/Articles/edit.ctp:4
+#: View/Categories/admin_view.ctp:34
+#: View/Categories/edit.ctp:4
+#: View/Categories - Copy/edit.ctp:4
+msgid "Edit Category"
+msgstr ""
+
+#: View/Articles/admin_view.ctp:35
+#: View/Categories/admin_view.ctp:35
+msgid "Delete Category"
+msgstr ""
+
+#: View/Articles/admin_view.ctp:37
+#: View/Articles/index.ctp:48
+#: View/Categories/admin_view.ctp:37
+#: View/Categories/index.ctp:48
+msgid "New Category"
+msgstr ""
+
+#: View/Articles/index.ctp:2
+#: View/Categories/index.ctp:2
+#: View/Pages/home.ctp:245
+#: View/Subcategories/admin_view.ctp:9
+#: View/Subcategories/view.ctp:9
+msgid "Categories"
+msgstr ""
+
+#: View/Articles/index.ctp:34
+#: View/Banners/admin_index.ctp:31
+#: View/Categories/index.ctp:34
+#: View/Contacts/index.ctp:40
+#: View/Contacts/newCtpTemplatefe.ctp:40
+#: View/Contacts - Copy/index.ctp:40
+#: View/Contacts - Copy/newCtpTemplatefe.ctp:40
+#: View/Contents/index.ctp:38
+#: View/Coupans/index.ctp:40
+#: View/Coupans/newCtpTemplatefe.ctp:40
+#: View/Details/admin_index.ctp:40
+#: View/Details/index.ctp:40
+#: View/Newsletters/index.ctp:38
+#: View/Pdetails/index.ctp:40
+#: View/Products/grege.ctp:49
+#: View/Products/index.ctp:38
+#: View/Products/product.ctp:24
+#: View/Products - Copy/index.ctp:38
+#: View/Sliders/admin_index.ctp:34
+#: View/Sliders/index.ctp:34
+#: View/Subcategories/admin_index.ctp:34
+#: View/Subcategories/index.ctp:34
+#: View/Subscribers/index.ctp:32
+#: View/Users/index.ctp:45
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr ""
+
+#: View/Banners/admin_edit.ctp:4
+msgid "Admin Edit User"
+msgstr ""
+
+#: View/Banners/admin_edit.ctp:20
+#: View/Newsletters/add.ctp:20
+#: View/Newsletters/admin_view.ctp:52
+#: View/Newsletters/edit.ctp:22
+#: View/Newsletters/index.ctp:53
+#: View/Newsletters/newCtpTemplatexvcvvv.ctp:31
+#: View/Newsletters/view.ctp:43
+#: View/Users/add.ctp:19
+#: View/Users/edit.ctp:21
+#: View/Users/newCtpTemplategder.ctp:57
+#: View/Users/view.ctp:41
+msgid "List Users"
+msgstr ""
+
+#: View/Banners/admin_index.ctp:2
+msgid "Banners"
+msgstr ""
+
+#: View/Banners/admin_index.ctp:45
+#: View/Banners/admin_view.ctp:34
+msgid "New Banner"
+msgstr ""
+
+#: View/Banners/admin_view.ctp:2
+msgid "Banner"
+msgstr ""
+
+#: View/Banners/admin_view.ctp:9
+#: View/Subcategories/admin_view.ctp:14
+#: View/Subcategories/view.ctp:14
+msgid "Name"
+msgstr ""
+
+#: View/Banners/admin_view.ctp:31
+msgid "Edit Banner"
+msgstr ""
+
+#: View/Banners/admin_view.ctp:32
+msgid "Delete Banner"
+msgstr ""
+
+#: View/Banners/admin_view.ctp:33
+msgid "List Banners"
+msgstr ""
+
+#: View/Categories/admin_add.ctp:13;15
+msgid "Add Categories"
+msgstr ""
+
+#: View/Categories/admin_add.ctp:33
+msgid "Categories Name"
+msgstr ""
+
+#: View/Categories/admin_index.ctp:15
+msgid "All Category"
+msgstr ""
+
+#: View/Categories/admin_index.ctp:31
+#: View/Pdetails/admin_index.ctp:33
+msgid "New Pdetail"
+msgstr ""
+
+#: View/Contacts/add.ctp:4
+#: View/Coupans/add.ctp:4
+msgid "Add Contact"
+msgstr ""
+
+#: View/Contacts/add.ctp:21
+#: View/Contacts/admin_add.ctp:21
+#: View/Contacts/admin_edit.ctp:23
+#: View/Contacts/edit.ctp:23
+#: View/Contacts/view.ctp:51
+#: View/Contacts - Copy/admin_add.ctp:21
+#: View/Contacts - Copy/admin_edit.ctp:23
+#: View/Contacts - Copy/view.ctp:51
+#: View/Coupans/add.ctp:21
+#: View/Coupans/admin_edit.ctp:23
+#: View/Coupans/edit.ctp:23
+#: View/Coupans/view.ctp:51
+msgid "List Contacts"
+msgstr ""
+
+#: View/Contacts/admin_add.ctp:4
+#: View/Contacts - Copy/admin_add.ctp:4
+msgid "Admin Add Contact"
+msgstr ""
+
+#: View/Contacts/admin_edit.ctp:4
+#: View/Contacts - Copy/admin_edit.ctp:4
+#: View/Coupans/admin_edit.ctp:4
+msgid "Admin Edit Contact"
+msgstr ""
+
+#: View/Contacts/admin_index.ctp:12
+#: View/Elements/admin/leftsidebar.ctp:66
+#: View/Elements/admin/sidebar.ctp:71
+msgid "Contact Management"
+msgstr ""
+
+#: View/Contacts/admin_index.ctp:69
+#: View/Orders/admin_index.ctp:104
+#: View/Users/admin_index.ctp:76
+msgid "NOT FOUND"
+msgstr ""
+
+#: View/Contacts/admin_view.ctp:18
+#: View/Contacts/contact.ctp:8
+#: View/Contacts/view.ctp:2
+#: View/Contacts - Copy/admin_view.ctp:18
+#: View/Contacts - Copy/view.ctp:2
+#: View/Coupans/admin_view.ctp:18
+#: View/Coupans/view.ctp:2
+msgid "Contact"
+msgstr ""
+
+#: View/Contacts/admin_view.ctp:25
+#: View/Contacts/view.ctp:9
+#: View/Contacts - Copy/admin_view.ctp:25
+#: View/Contacts - Copy/view.ctp:9
+#: View/Coupans/admin_view.ctp:25
+#: View/Coupans/view.ctp:9
+#: View/Newsletters/admin_view.ctp:18
+#: View/Newsletters/view.ctp:9
+#: View/Orders/orders.ctp:153
+msgid "First Name"
+msgstr ""
+
+#: View/Contacts/admin_view.ctp:30
+#: View/Contacts - Copy/admin_view.ctp:30
+#: View/Coupans/admin_view.ctp:30
+#: View/Maps/partnerform.ctp:32
+msgid "Subject"
+msgstr ""
+
+#: View/Contacts/admin_view.ctp:35
+#: View/Contacts - Copy/admin_view.ctp:35
+#: View/Maps/partnerform.ctp:31
+#: View/Newsletters/admin_view.ctp:28
+#: View/Newsletters/view.ctp:19
+#: View/Subscribers/admin_view.ctp:19
+#: View/Subscribers/view.ctp:9
+#: View/Users/newCtpTemplategder.ctp:45
+#: View/Users/view.ctp:29
+msgid "Email"
+msgstr ""
+
+#: View/Contacts/admin_view.ctp:40
+#: View/Contacts - Copy/admin_view.ctp:40
+#: View/Orders/orders.ctp:186
+msgid "Contact no"
+msgstr ""
+
+#: View/Contacts/admin_view.ctp:45
+#: View/Contacts/view.ctp:34
+#: View/Contacts - Copy/admin_view.ctp:45
+#: View/Contacts - Copy/view.ctp:34
+#: View/Coupans/view.ctp:34
+#: View/Maps/partnerform.ctp:33
+msgid "Message"
+msgstr ""
+
+#: View/Contacts/contact.ctp:9
+msgid "Get in touch with us and explore more about our products"
+msgstr ""
+
+#: View/Contacts/contact.ctp:21
+msgid "Landmark"
+msgstr ""
+
+#: View/Contacts/contact.ctp:23
+msgid "Address: #20-40 - Tower G45"
+msgstr ""
+
+#: View/Contacts/contact.ctp:23
+msgid "Gound Floor - London UK"
+msgstr ""
+
+#: View/Contacts/contact.ctp:24
+msgid "info@wd-demo.com"
+msgstr ""
+
+#: View/Contacts/contact.ctp:25
+msgid "skype.mdemo"
+msgstr ""
+
+#: View/Contacts/contact.ctp:26
+msgid "+444 (Phone) 123456"
+msgstr ""
+
+#: View/Contacts/contact.ctp:27
+msgid "+123 (FAX) 0011223"
+msgstr ""
+
+#: View/Contacts/contact.ctp:45
+msgid "Message..."
+msgstr ""
+
+#: View/Contacts/edit.ctp:4
+#: View/Contacts/view.ctp:49
+#: View/Contacts - Copy/view.ctp:49
+#: View/Coupans/edit.ctp:4
+#: View/Coupans/view.ctp:49
+msgid "Edit Contact"
+msgstr ""
+
+#: View/Contacts/index.ctp:2
+#: View/Contacts/newCtpTemplatefe.ctp:2
+#: View/Contacts - Copy/index.ctp:2
+#: View/Contacts - Copy/newCtpTemplatefe.ctp:2
+#: View/Coupans/index.ctp:2
+#: View/Coupans/newCtpTemplatefe.ctp:2
+msgid "Contacts"
+msgstr ""
+
+#: View/Contacts/index.ctp:54
+#: View/Contacts/newCtpTemplatefe.ctp:54
+#: View/Contacts/view.ctp:52
+#: View/Contacts - Copy/index.ctp:54
+#: View/Contacts - Copy/newCtpTemplatefe.ctp:54
+#: View/Contacts - Copy/view.ctp:52
+#: View/Coupans/index.ctp:54
+#: View/Coupans/newCtpTemplatefe.ctp:54
+#: View/Coupans/view.ctp:52
+msgid "New Contact"
+msgstr ""
+
+#: View/Contacts/view.ctp:14
+#: View/Contacts - Copy/view.ctp:14
+#: View/Coupans/view.ctp:14
+#: View/Newsletters/admin_view.ctp:23
+#: View/Newsletters/view.ctp:14
+#: View/Orders/orders.ctp:160
+msgid "Last Name"
+msgstr ""
+
+#: View/Contacts/view.ctp:19
+#: View/Contacts - Copy/view.ctp:19
+#: View/Coupans/view.ctp:19
+msgid "Gender"
+msgstr ""
+
+#: View/Contacts/view.ctp:24
+#: View/Contacts - Copy/view.ctp:24
+#: View/Coupans/view.ctp:24
+msgid "Address"
+msgstr ""
+
+#: View/Contacts/view.ctp:29
+#: View/Contacts - Copy/view.ctp:29
+#: View/Coupans/view.ctp:29
+msgid "Contact No"
+msgstr ""
+
+#: View/Contacts/view.ctp:50
+#: View/Contacts - Copy/view.ctp:50
+#: View/Coupans/view.ctp:50
+msgid "Delete Contact"
+msgstr ""
+
+#: View/Contents/add.ctp:4
+#: View/Products/add.ctp:4
+#: View/Products/admin_add.ctp:13;15
+#: View/Products - Copy/add.ctp:4
+msgid "Add Product"
+msgstr ""
+
+#: View/Contents/add.ctp:19
+#: View/Contents/admin_edit.ctp:19
+#: View/Contents/admin_view.ctp:41
+#: View/Contents/edit.ctp:21
+#: View/Contents/view.ctp:41
+#: View/Products/add.ctp:19
+#: View/Products/admin_edit.ctp:21
+#: View/Products/edit.ctp:21
+#: View/Products/greg.ctp:19
+#: View/Products/view.ctp:41
+#: View/Products - Copy/add.ctp:19
+#: View/Products - Copy/admin_edit.ctp:21
+#: View/Products - Copy/admin_view.ctp:41
+#: View/Products - Copy/edit.ctp:21
+#: View/Products - Copy/greg.ctp:19
+#: View/Products - Copy/view.ctp:41
+#: View/Users/dfgd.ctp:29
+msgid "List Products"
+msgstr ""
+
+#: View/Contents/add.ctp:20
+#: View/Contents/admin_edit.ctp:20
+#: View/Contents/admin_view.ctp:43
+#: View/Contents/edit.ctp:22
+#: View/Contents/index.ctp:53
+#: View/Contents/view.ctp:43
+#: View/Products/add.ctp:20
+#: View/Products/admin_edit.ctp:22
+#: View/Products/edit.ctp:22
+#: View/Products/greg.ctp:20
+#: View/Products/grege.ctp:64
+#: View/Products/index.ctp:53
+#: View/Products/view.ctp:43
+#: View/Products - Copy/add.ctp:20
+#: View/Products - Copy/admin_edit.ctp:22
+#: View/Products - Copy/admin_view.ctp:43
+#: View/Products - Copy/edit.ctp:22
+#: View/Products - Copy/greg.ctp:20
+#: View/Products - Copy/index.ctp:53
+#: View/Products - Copy/view.ctp:43
+msgid "List Pcategories"
+msgstr ""
+
+#: View/Contents/add.ctp:21
+#: View/Contents/admin_edit.ctp:21
+#: View/Contents/admin_view.ctp:44
+#: View/Contents/edit.ctp:23
+#: View/Contents/index.ctp:54
+#: View/Contents/view.ctp:44
+#: View/Products/add.ctp:21
+#: View/Products/admin_edit.ctp:23
+#: View/Products/edit.ctp:23
+#: View/Products/greg.ctp:21
+#: View/Products/grege.ctp:65
+#: View/Products/index.ctp:54
+#: View/Products/view.ctp:44
+#: View/Products - Copy/add.ctp:21
+#: View/Products - Copy/admin_edit.ctp:23
+#: View/Products - Copy/admin_view.ctp:44
+#: View/Products - Copy/edit.ctp:23
+#: View/Products - Copy/greg.ctp:21
+#: View/Products - Copy/index.ctp:54
+#: View/Products - Copy/view.ctp:44
+msgid "New Pcategories"
+msgstr ""
+
+#: View/Contents/admin_edit.ctp:4
+msgid "Admin Edit content"
+msgstr ""
+
+#: View/Contents/admin_view.ctp:2
+#: View/Contents/view.ctp:2
+#: View/Inlineitems/items.ctp:17
+#: View/Products/view.ctp:2
+#: View/Products - Copy/admin_view.ctp:2
+#: View/Products - Copy/view.ctp:2
+msgid "Product"
+msgstr ""
+
+#: View/Contents/admin_view.ctp:9
+#: View/Contents/view.ctp:9
+#: View/Inlineitems/orderitem.ctp:106
+#: View/Products/admin_add.ctp:33
+#: View/Products/view.ctp:9
+#: View/Products - Copy/admin_view.ctp:9
+#: View/Products - Copy/view.ctp:9
+msgid "Product Name"
+msgstr ""
+
+#: View/Contents/admin_view.ctp:14
+#: View/Contents/view.ctp:14
+#: View/Products/admin_add.ctp:41
+#: View/Products/view.ctp:14
+#: View/Products - Copy/admin_view.ctp:14
+#: View/Products - Copy/view.ctp:14
+msgid "Product Image"
+msgstr ""
+
+#: View/Contents/admin_view.ctp:19
+#: View/Contents/view.ctp:19
+#: View/Inlineitems/orderitem.ctp:106
+#: View/Products/admin_add.ctp:84
+#: View/Products/view.ctp:19
+#: View/Products - Copy/admin_view.ctp:19
+#: View/Products - Copy/view.ctp:19
+msgid "Product Description"
+msgstr ""
+
+#: View/Contents/admin_view.ctp:24
+#: View/Contents/view.ctp:24
+#: View/Products/view.ctp:24
+#: View/Products - Copy/admin_view.ctp:24
+#: View/Products - Copy/view.ctp:24
+msgid "Timestamo"
+msgstr ""
+
+#: View/Contents/admin_view.ctp:29
+#: View/Contents/view.ctp:29
+#: View/Products/view.ctp:29
+#: View/Products - Copy/admin_view.ctp:29
+#: View/Products - Copy/view.ctp:29
+msgid "Pcategories"
+msgstr ""
+
+#: View/Contents/admin_view.ctp:39
+#: View/Contents/edit.ctp:4
+#: View/Contents/view.ctp:39
+#: View/Products/edit.ctp:4
+#: View/Products/view.ctp:39
+#: View/Products - Copy/admin_view.ctp:39
+#: View/Products - Copy/edit.ctp:4
+#: View/Products - Copy/view.ctp:39
+#: View/Users/dfgd.ctp:13
+msgid "Edit Product"
+msgstr ""
+
+#: View/Contents/admin_view.ctp:40
+#: View/Contents/view.ctp:40
+#: View/Products/view.ctp:40
+#: View/Products - Copy/admin_view.ctp:40
+#: View/Products - Copy/view.ctp:40
+msgid "Delete Product"
+msgstr ""
+
+#: View/Contents/admin_view.ctp:42
+#: View/Contents/index.ctp:52
+#: View/Contents/view.ctp:42
+#: View/Products/admin_index.ctp:30
+#: View/Products/grege.ctp:63
+#: View/Products/index.ctp:52
+#: View/Products/view.ctp:42
+#: View/Products - Copy/admin_view.ctp:42
+#: View/Products - Copy/index.ctp:52
+#: View/Products - Copy/view.ctp:42
+msgid "New Product"
+msgstr ""
+
+#: View/Contents/index.ctp:2
+#: View/Products/admin_index.ctp:14
+#: View/Products/grege.ctp:13
+#: View/Products/index.ctp:2
+#: View/Products - Copy/index.ctp:2
+msgid "Products"
+msgstr ""
+
+#: View/Coupans/admin_add.ctp:13
+msgid "Add Koupan"
+msgstr ""
+
+#: View/Coupans/admin_add.ctp:15
+msgid "Note : Apply Formula"
+msgstr ""
+
+#: View/Coupans/admin_add.ctp:16
+msgid " For %(Percentage Discount) Apply Formula: price-(price*2/100)"
+msgstr ""
+
+#: View/Coupans/admin_add.ctp:17
+msgid "For Price Discount Apply this: price-10"
+msgstr ""
+
+#: View/Coupans/admin_add.ctp:19
+msgid "For  Example if you want to provide 10% discount then:   price-(price*10/100)"
+msgstr ""
+
+#: View/Coupans/admin_add.ctp:21
+msgid " If you want discount -20 then apply:   price-20"
+msgstr ""
+
+#: View/Coupans/admin_add.ctp:38
+#: View/Elements/admin/sidebar.ctp:97
+msgid "Add Coupan"
+msgstr ""
+
+#: View/Coupans/admin_add.ctp:43
+msgid "Put Discount"
+msgstr ""
+
+#: View/Coupans/admin_add.ctp:47
+msgid "Apply Detail"
+msgstr ""
+
+#: View/Details/add.ctp:4
+#: View/Pdetails/add.ctp:4
+msgid "Add Detail"
+msgstr ""
+
+#: View/Details/add.ctp:20
+#: View/Details/admin_add.ctp:21
+#: View/Details/admin_edit.ctp:22
+#: View/Details/admin_view.ctp:51
+#: View/Details/edit.ctp:22
+#: View/Details/view.ctp:51
+#: View/Pdetails/add.ctp:20
+#: View/Pdetails/admin_view.ctp:51
+#: View/Pdetails/edit.ctp:22
+#: View/Pdetails/fs.ctp:45
+#: View/Pdetails/view.ctp:51
+msgid "List Details"
+msgstr ""
+
+#: View/Details/admin_add.ctp:4
+msgid "Admin Add Detail"
+msgstr ""
+
+#: View/Details/admin_edit.ctp:4
+msgid "Admin Edit Detail"
+msgstr ""
+
+#: View/Details/admin_index.ctp:2
+#: View/Details/index.ctp:2
+#: View/Pdetails/index.ctp:2
+msgid "Details"
+msgstr ""
+
+#: View/Details/admin_index.ctp:54
+#: View/Details/admin_view.ctp:52
+#: View/Details/index.ctp:54
+#: View/Details/view.ctp:52
+#: View/Pdetails/admin_view.ctp:52
+#: View/Pdetails/index.ctp:54
+#: View/Pdetails/view.ctp:52
+msgid "New Detail"
+msgstr ""
+
+#: View/Details/admin_view.ctp:2
+#: View/Details/view.ctp:2
+#: View/Pdetails/admin_view.ctp:2
+#: View/Pdetails/view.ctp:2
+msgid "Detail"
+msgstr ""
+
+#: View/Details/admin_view.ctp:9
+#: View/Details/view.ctp:9
+#: View/Pdetails/admin_view.ctp:9
+#: View/Pdetails/view.ctp:9
+#: View/Users/newCtpTemplategder.ctp:35
+#: View/Users/view.ctp:19
+msgid "Type"
+msgstr ""
+
+#: View/Details/admin_view.ctp:14
+#: View/Details/view.ctp:14
+#: View/Inlineitems/orderitem.ctp:106;122
+#: View/Pdetails/admin_view.ctp:14
+#: View/Pdetails/view.ctp:14
+msgid "Article"
+msgstr ""
+
+#: View/Details/admin_view.ctp:19
+#: View/Details/view.ctp:19
+#: View/Inlineitems/orderitem.ctp:122
+#: View/Pdetails/admin_view.ctp:19
+#: View/Pdetails/view.ctp:19
+msgid "Size"
+msgstr ""
+
+#: View/Details/admin_view.ctp:24
+#: View/Details/view.ctp:24
+#: View/Inlineitems/orderitem.ctp:122
+#: View/Pdetails/admin_view.ctp:24
+#: View/Pdetails/view.ctp:24
+msgid "Color"
+msgstr ""
+
+#: View/Details/admin_view.ctp:29
+#: View/Details/view.ctp:29
+#: View/Inlineitems/items.ctp:120
+#: View/Orders/orders.ctp:11
+#: View/Pdetails/admin_view.ctp:29
+#: View/Pdetails/view.ctp:29
+msgid "Price"
+msgstr ""
+
+#: View/Details/admin_view.ctp:34
+#: View/Details/view.ctp:34
+#: View/Pdetails/admin_view.ctp:34
+#: View/Pdetails/view.ctp:34
+msgid "Detail1"
+msgstr ""
+
+#: View/Details/admin_view.ctp:39
+#: View/Details/view.ctp:39
+#: View/Pdetails/admin_view.ctp:39
+#: View/Pdetails/view.ctp:39
+#: View/Sliders/admin_view.ctp:24
+#: View/Sliders/view.ctp:24
+msgid "Created"
+msgstr ""
+
+#: View/Details/admin_view.ctp:49
+#: View/Details/edit.ctp:4
+#: View/Details/view.ctp:49
+#: View/Pdetails/admin_view.ctp:49
+#: View/Pdetails/edit.ctp:4
+#: View/Pdetails/view.ctp:49
+msgid "Edit Detail"
+msgstr ""
+
+#: View/Details/admin_view.ctp:50
+#: View/Details/view.ctp:50
+#: View/Pdetails/admin_view.ctp:50
+#: View/Pdetails/view.ctp:50
+msgid "Delete Detail"
+msgstr ""
+
+#: View/Elements/footer.ctp:6
+msgid "Contact us"
+msgstr ""
+
+#: View/Elements/header.ctp:9
+msgid "Toggle navigation"
+msgstr ""
+
+#: View/Elements/header.ctp:19
+msgid "Nyheder"
+msgstr ""
+
+#: View/Elements/header.ctp:20
+msgid "Om os"
+msgstr ""
+
+#: View/Elements/header.ctp:21
+msgid "Referencer"
+msgstr ""
+
+#: View/Elements/header.ctp:22
+msgid "Kontakt"
+msgstr ""
+
+#: View/Elements/header.ctp:24
+#: View/Elements/admin/header.ctp:20
+msgid "Logout"
+msgstr ""
+
+#: View/Elements/header.ctp:27
+msgid "Login"
+msgstr ""
+
+#: View/Elements/header.ctp:29
+msgid "Partner Oversigt"
+msgstr ""
+
+#: View/Elements/admin/gfj.ctp:7
+msgid "Users Management"
+msgstr ""
+
+#: View/Elements/admin/gfj.ctp:12
+#: View/Elements/admin/leftsidebar.ctp:23
+msgid "Subscrib Management"
+msgstr ""
+
+#: View/Elements/admin/gfj.ctp:17
+msgid "Newsletter Management"
+msgstr ""
+
+#: View/Elements/admin/gfj.ctp:22
+#: View/Products/admin_index.ctp:12
+msgid "Products Management"
+msgstr ""
+
+#: View/Elements/admin/leftsidebar.ctp:12
+#: View/Elements/admin/sidebar.ctp:12
+msgid "All Users"
+msgstr ""
+
+#: View/Elements/admin/leftsidebar.ctp:17;39
+#: View/Elements/admin/sidebar.ctp:17
+msgid "Add New"
+msgstr ""
+
+#: View/Elements/admin/leftsidebar.ctp:34
+msgid "All Newsletters"
+msgstr ""
+
+#: View/Elements/admin/leftsidebar.ctp:50
+#: View/Elements/admin/sidebar.ctp:40
+msgid "All Products"
+msgstr ""
+
+#: View/Elements/admin/leftsidebar.ctp:55
+msgid "Add Product Categories"
+msgstr ""
+
+#: View/Elements/admin/leftsidebar.ctp:60
+#: View/Elements/admin/sidebar.ctp:55
+msgid "Add New Product"
+msgstr ""
+
+#: View/Elements/admin/sidebar.ctp:7
+msgid " User Management"
+msgstr ""
+
+#: View/Elements/admin/sidebar.ctp:35
+msgid "Product Management"
+msgstr ""
+
+#: View/Elements/admin/sidebar.ctp:45
+msgid "Add Product Categories/Types"
+msgstr ""
+
+#: View/Elements/admin/sidebar.ctp:60
+msgid "Add New Detail"
+msgstr ""
+
+#: View/Elements/admin/sidebar.ctp:65
+msgid "All Product detail"
+msgstr ""
+
+#: View/Elements/admin/sidebar.ctp:76
+msgid "Paid Order "
+msgstr ""
+
+#: View/Elements/admin/sidebar.ctp:81
+msgid "Order Items "
+msgstr ""
+
+#: View/Elements/admin/sidebar.ctp:86
+msgid "Posted Products Details"
+msgstr ""
+
+#: View/Elements/admin/sidebar.ctp:92
+msgid "All Categories"
+msgstr ""
+
+#: View/Elements/admin/sidebar.ctp:102
+msgid "Change Content"
+msgstr ""
+
+#: View/Elements/admin/sidebar.ctp:107
+msgid "Language Manage"
+msgstr ""
+
+#: View/Inlineitems/items.ctp:6
+#: View/Pdetails/detail.ctp:7
+msgid "Home"
+msgstr ""
+
+#: View/Inlineitems/items.ctp:7
+#: View/Pdetails/detail.ctp:31
+msgid "Design"
+msgstr ""
+
+#: View/Inlineitems/items.ctp:8;151
+msgid "Checkout"
+msgstr ""
+
+#: View/Inlineitems/items.ctp:18
+msgid "Product Details"
+msgstr ""
+
+#: View/Inlineitems/items.ctp:19
+msgid "Unitprice"
+msgstr ""
+
+#: View/Inlineitems/items.ctp:20
+#: View/Orders/orders.ctp:12
+msgid "Quantity"
+msgstr ""
+
+#: View/Inlineitems/items.ctp:21
+msgid "Discount Price"
+msgstr ""
+
+#: View/Inlineitems/items.ctp:22
+msgid "Refresh"
+msgstr ""
+
+#: View/Inlineitems/items.ctp:24
+#: View/Orders/orders.ctp:13;75
+msgid "Total"
+msgstr ""
+
+#: View/Inlineitems/items.ctp:25
+#: View/Orders/orders.ctp:14
+msgid "Remove"
+msgstr ""
+
+#: View/Inlineitems/items.ctp:31;56;82
+msgid "18321 (Bumper)Material: Transparent Foil"
+msgstr ""
+
+#: View/Inlineitems/items.ctp:32;57;83
+msgid "195.00 DKK"
+msgstr ""
+
+#: View/Inlineitems/items.ctp:108
+msgid "Redeem voucher code"
+msgstr ""
+
+#: View/Inlineitems/items.ctp:111
+msgid "Indtast kode:"
+msgstr ""
+
+#: View/Inlineitems/items.ctp:113
+msgid "Add"
+msgstr ""
+
+#: View/Inlineitems/items.ctp:118
+msgid "Shipping"
+msgstr ""
+
+#: View/Inlineitems/items.ctp:119
+msgid "Time"
+msgstr ""
+
+#: View/Inlineitems/items.ctp:123
+msgid "Post Denmark"
+msgstr ""
+
+#: View/Inlineitems/items.ctp:124
+msgid "2-5 working days depending on the product"
+msgstr ""
+
+#: View/Inlineitems/items.ctp:125
+msgid "22.00 DKK"
+msgstr ""
+
+#: View/Inlineitems/items.ctp:129
+msgid "Sub Total"
+msgstr ""
+
+#: View/Inlineitems/items.ctp:134
+msgid "Discount"
+msgstr ""
+
+#: View/Inlineitems/items.ctp:139
+msgid "vat"
+msgstr ""
+
+#: View/Inlineitems/items.ctp:144
+msgid "Grand Total"
+msgstr ""
+
+#: View/Inlineitems/items.ctp:150
+msgid "Continue shopping"
+msgstr ""
+
+#: View/Inlineitems/orderitem.ctp:12
+msgid "Order Item"
+msgstr ""
+
+#: View/Inlineitems/orderitem.ctp:83
+msgid "Print this page"
+msgstr ""
+
+#: View/Inlineitems/orderitem.ctp:92
+msgid "Product Order Detail"
+msgstr ""
+
+#: View/Inlineitems/orderitem.ctp:94
+msgid "id"
+msgstr ""
+
+#: View/Inlineitems/orderitem.ctp:94
+msgid "image"
+msgstr ""
+
+#: View/Inlineitems/orderitem.ctp:94
+msgid "consumer price"
+msgstr ""
+
+#: View/Inlineitems/orderitem.ctp:94
+msgid "Order id"
+msgstr ""
+
+#: View/Inlineitems/orderitem.ctp:94
+msgid "product id"
+msgstr ""
+
+#: View/Inlineitems/orderitem.ctp:104
+msgid "Product Detail"
+msgstr ""
+
+#: View/Inlineitems/orderitem.ctp:106
+#: View/Inlineitems/view.ctp:45
+#: View/Products/admin_view.ctp:45
+msgid "Product id"
+msgstr ""
+
+#: View/Inlineitems/orderitem.ctp:106
+#: View/Products/admin_add.ctp:69
+#: View/Products/product_detail.ctp:60
+msgid "Background Color"
+msgstr ""
+
+#: View/Inlineitems/orderitem.ctp:106
+#: View/Products/admin_add.ctp:74
+#: View/Products/product_detail.ctp:65
+msgid "Height"
+msgstr ""
+
+#: View/Inlineitems/orderitem.ctp:106
+#: View/Products/admin_add.ctp:79
+#: View/Products/product_detail.ctp:69
+msgid "Width"
+msgstr ""
+
+#: View/Inlineitems/orderitem.ctp:120
+msgid "Self Created Item Detail"
+msgstr ""
+
+#: View/Inlineitems/orderitem.ctp:122
+msgid "Pdetail id"
+msgstr ""
+
+#: View/Inlineitems/orderitem.ctp:122
+msgid "Material"
+msgstr ""
+
+#: View/Inlineitems/view.ctp:13
+msgid " View Order"
+msgstr ""
+
+#: View/Inlineitems/view.ctp:24
+msgid " Order Id:"
+msgstr ""
+
+#: View/Inlineitems/view.ctp:28
+msgid " Image:"
+msgstr ""
+
+#: View/Inlineitems/view.ctp:33
+msgid " Consumer Price:"
+msgstr ""
+
+#: View/Inlineitems/view.ctp:37
+msgid " Order id:"
+msgstr ""
+
+#: View/Inlineitems/view.ctp:41
+msgid " Self Create product id:"
+msgstr ""
+
+#: View/Layouts/userlogin.ctp:38
+#: View/Orders/checkout.ctp:2
+#: View/Users/userlogin.ctp:11
+msgid "New customer"
+msgstr ""
+
+#: View/Layouts/userlogin.ctp:41
+msgid "By creating an account on fantazi.dk you can see your orders, \n                                        save your designs and reordering."
+msgstr ""
+
+#: View/Layouts/userlogin.ctp:43
+#: View/Orders/checkout.ctp:10
+#: View/Users/userlogin.ctp:15
+msgid "E-mail:"
+msgstr ""
+
+#: View/Layouts/userlogin.ctp:48
+#: View/Users/userlogin.ctp:20
+msgid "I want to receive newsletters from the website"
+msgstr ""
+
+#: View/Layouts/userlogin.ctp:61
+#: View/Users/userlogin.ctp:30
+msgid "Already a customer"
+msgstr ""
+
+#: View/Layouts/userlogin.ctp:64
+msgid "Welcome back to fantazi.dk. Please login and enjoy the many features!"
+msgstr ""
+
+#: View/Layouts/userlogin.ctp:65
+#: View/Maps/partnerform.ctp:21
+#: View/Orders/admin_view.ctp:50
+msgid "Email:"
+msgstr ""
+
+#: View/Layouts/userlogin.ctp:69
+#: View/Users/userlogin.ctp:38
+msgid "Password:"
+msgstr ""
+
+#: View/Layouts/userlogin.ctp:87
+#: View/Users/userlogin.ctp:56
+msgid "Social media"
+msgstr ""
+
+#: View/Layouts/userlogin.ctp:89
+msgid "You can use your username and password from your social media when you need to act on www.fantazi.dk. It is safe, easy and fast."
+msgstr ""
+
+#: View/Maps/becomepartner.ctp:66
+msgid " Hold musen over dit lokale omraade."
+msgstr ""
+
+#: View/Maps/becomepartner.ctp:73
+#: View/Maps/partnerform.ctp:61
+msgid "Vi søger partnere til distrikter i hele Danmark. Vi søger, at stille et fodboldhold, hvor teamwork er forudsætningen der giver den enkelte frihed til at udvikle sit individuelle talent."
+msgstr ""
+
+#: View/Maps/becomepartner.ctp:75
+msgid " Vi søger partnere der kan samarbejde med hinanden, uden at F@ntazi.dk skal være økonomisk involveret - se det er rigtigt netværks samarbejde."
+msgstr ""
+
+#: View/Maps/becomepartner.ctp:77
+msgid " kunne du tænke dig at blive partner,"
+msgstr ""
+
+#: View/Maps/becomepartner.ctp:78
+msgid " kontakt venligst"
+msgstr ""
+
+#: View/Maps/becomepartner.ctp:79
+msgid " René Jensen"
+msgstr ""
+
+#: View/Maps/becomepartner.ctp:80
+msgid " Tel. 2634 3"
+msgstr ""
+
+#: View/Maps/partnerform.ctp:16;52
+msgid "Fantazi.dk"
+msgstr ""
+
+#: View/Maps/partnerform.ctp:19
+msgid "Tlf:"
+msgstr ""
+
+#: View/Maps/partnerform.ctp:20
+msgid "Mobil:"
+msgstr ""
+
+#: View/Maps/partnerform.ctp:22
+msgid "www.fantazi.dk"
+msgstr ""
+
+#: View/Maps/partnerform.ctp:26
+msgid "Kontakt denne forhandler eller taeppemand.dk"
+msgstr ""
+
+#: View/Maps/partnerform.ctp:29
+msgid "Navn"
+msgstr ""
+
+#: View/Maps/partnerform.ctp:50
+msgid " Fantazi.dk er et landsdækkende samarbejde mellem selvstændige fra den grafisk branche."
+msgstr ""
+
+#: View/Maps/partnerform.ctp:51
+msgid "F@NTAZI ØSTFYN"
+msgstr ""
+
+#: View/Maps/partnerform.ctp:53
+msgid "Tld. 2634 3546"
+msgstr ""
+
+#: View/Maps/partnerform.ctp:55
+msgid "Kontakt denne partner eller fantazi.dk\nFind din lokale partner\nHold blot musen over dit lokale område\nBliv partner i f@ntazi.\nF@ntazi konceptet tager udgangspunkt i det positive ved netværk, kædesamarbejde, individuel idekraft og det globale billede."
+msgstr ""
+
+#: View/Maps/partnerform.ctp:63
+msgid "Vi søger partner der kan samarbejde med hinanden, uden at F@ntazi.dk skal involvere sig - se det er rigtigt nerværks samarbejde."
+msgstr ""
+
+#: View/Maps/partnerform.ctp:65
+msgid "Har du noget at byde ind med, kontakt venligst "
+msgstr ""
+
+#: View/Maps/partnerform.ctp:66
+#: View/Pages/aboutus.ctp:70
+msgid "René Jensen"
+msgstr ""
+
+#: View/Maps/partnerform.ctp:67
+msgid "Tel. 2634 3546"
+msgstr ""
+
+#: View/Newsletters/add.ctp:4
+msgid "Add Newsletter"
+msgstr ""
+
+#: View/Newsletters/add.ctp:19
+#: View/Newsletters/admin_view.ctp:50
+#: View/Newsletters/edit.ctp:21
+#: View/Newsletters/newCtpTemplatexvcvvv.ctp:30
+#: View/Newsletters/view.ctp:41
+msgid "List Newsletters"
+msgstr ""
+
+#: View/Newsletters/add.ctp:21
+#: View/Newsletters/admin_view.ctp:53
+#: View/Newsletters/edit.ctp:23
+#: View/Newsletters/index.ctp:54
+#: View/Newsletters/newCtpTemplatexvcvvv.ctp:32
+#: View/Newsletters/view.ctp:44
+#: View/Users/index.ctp:59
+#: View/Users/newCtpTemplategder.ctp:58
+#: View/Users/view.ctp:42
+msgid "New User"
+msgstr ""
+
+#: View/Newsletters/admin_view.ctp:11
+#: View/Newsletters/view.ctp:2
+msgid "Newsletter"
+msgstr ""
+
+#: View/Newsletters/admin_view.ctp:33
+#: View/Newsletters/view.ctp:24
+#: View/Users/newCtpTemplategder.ctp:18
+#: View/Users/view.ctp:2
+msgid "User"
+msgstr ""
+
+#: View/Newsletters/admin_view.ctp:38
+#: View/Newsletters/view.ctp:29
+#: View/Subscribers/admin_view.ctp:24
+#: View/Subscribers/view.ctp:14
+msgid "Status"
+msgstr ""
+
+#: View/Newsletters/admin_view.ctp:48
+#: View/Newsletters/edit.ctp:4
+#: View/Newsletters/view.ctp:39
+msgid "Edit Newsletter"
+msgstr ""
+
+#: View/Newsletters/admin_view.ctp:49
+#: View/Newsletters/view.ctp:40
+msgid "Delete Newsletter"
+msgstr ""
+
+#: View/Newsletters/admin_view.ctp:51
+#: View/Newsletters/index.ctp:52
+#: View/Newsletters/view.ctp:42
+msgid "New Newsletter"
+msgstr ""
+
+#: View/Newsletters/index.ctp:2
+msgid "Newsletters"
+msgstr ""
+
+#: View/Newsletters/newCtpTemplatexvcvvv.ctp:13
+msgid "Admin Edit Newsletter"
+msgstr ""
+
+#: View/Orders/admin_index.ctp:12
+#: View/Users/admin_index.ctp:12
+#: View/Users/index.ctp:11
+msgid "Users"
+msgstr ""
+
+#: View/Orders/admin_index.ctp:21
+#: View/Users/admin_view.ctp:22
+msgid "Success!"
+msgstr ""
+
+#: View/Orders/admin_index.ctp:58
+msgid "Action"
+msgstr ""
+
+#: View/Orders/admin_index.ctp:59
+msgid "Change Status"
+msgstr ""
+
+#: View/Orders/admin_index.ctp:86
+msgid "Invoice View"
+msgstr ""
+
+#: View/Orders/admin_index.ctp:119
+#: View/Pdetails/admin_index.ctp:109
+msgid "DeleteAll"
+msgstr ""
+
+#: View/Orders/admin_view.ctp:13
+#: View/Products/admin_view.ctp:13
+msgid "View Order"
+msgstr ""
+
+#: View/Orders/admin_view.ctp:14
+msgid "Genrate PDF"
+msgstr ""
+
+#: View/Orders/admin_view.ctp:24
+#: View/Products/admin_view.ctp:24
+msgid "Order Id:"
+msgstr ""
+
+#: View/Orders/admin_view.ctp:31
+#: View/Products/admin_view.ctp:28
+msgid "Image:"
+msgstr ""
+
+#: View/Orders/admin_view.ctp:37
+msgid "Quantity:"
+msgstr ""
+
+#: View/Orders/admin_view.ctp:42
+#: View/Products/admin_view.ctp:33
+msgid "Consumer Price:"
+msgstr ""
+
+#: View/Orders/admin_view.ctp:46
+#: View/Orders/checkout.ctp:7
+msgid "Name:"
+msgstr ""
+
+#: View/Orders/admin_view.ctp:54
+msgid "Contact Number"
+msgstr ""
+
+#: View/Orders/checkout.ctp:5
+msgid "By creating an account on fantazi.dk you can see your orders, \n            save your designs and reordering."
+msgstr ""
+
+#: View/Orders/checkout.ctp:13
+msgid "Contact No:"
+msgstr ""
+
+#: View/Orders/checkout.ctp:16
+msgid "Address:"
+msgstr ""
+
+#: View/Orders/checkout.ctp:19
+msgid "Country:"
+msgstr ""
+
+#: View/Orders/orders.ctp:10
+msgid "Item"
+msgstr ""
+
+#: View/Orders/orders.ctp:166
+msgid "Comapny"
+msgstr ""
+
+#: View/Orders/orders.ctp:172
+msgid "Country"
+msgstr ""
+
+#: View/Orders/orders.ctp:178
+msgid "City"
+msgstr ""
+
+#: View/Orders/orders.ctp:192
+msgid "Card Number"
+msgstr ""
+
+#: View/Orders/orders.ctp:198
+msgid "Billing Address"
+msgstr ""
+
+#: View/Orders/orders.ctp:205
+msgid "Total:"
+msgstr ""
+
+#: View/Orders/orders.ctp:218
+msgid " Pay »"
+msgstr ""
+
+#: View/Orders/orders.ctp:226
+msgid "Please correct the errors and try again."
+msgstr ""
+
+#: View/Pages/aboutus.ctp:16
+msgid "Our"
+msgstr ""
+
+#: View/Pages/aboutus.ctp:17
+msgid "The team behind Fantazi has more than 20 years of"
+msgstr ""
+
+#: View/Pages/aboutus.ctp:17
+msgid " experience – each of them with experience developed and maintained by education and hard work."
+msgstr ""
+
+#: View/Pages/aboutus.ctp:32
+msgid "Tomas Jančiauskas"
+msgstr ""
+
+#: View/Pages/aboutus.ctp:33
+msgid "CEO"
+msgstr ""
+
+#: View/Pages/aboutus.ctp:34
+msgid "Tomas has since start been the natural team leader – he has the skills which glue the different teams until one unit. The team which all the time develop new products and concepts for the benefit of our customers."
+msgstr ""
+
+#: View/Pages/aboutus.ctp:45
+msgid "Aura Gusevienė"
+msgstr ""
+
+#: View/Pages/aboutus.ctp:46
+msgid "Printing production manager"
+msgstr ""
+
+#: View/Pages/aboutus.ctp:47
+msgid "She has for many years developed more knowledge for all kind of printjobs – so if any difficult job, just ask her."
+msgstr ""
+
+#: View/Pages/aboutus.ctp:71
+msgid "Key account manager"
+msgstr ""
+
+#: View/Pages/aboutus.ctp:72
+msgid "He has the responsibility for our international costumers. He's also in charge of our partnerconcept."
+msgstr ""
+
+#: View/Pages/aboutus.ctp:105
+msgid "Alvydas Vadapalas"
+msgstr ""
+
+#: View/Pages/aboutus.ctp:106
+msgid "Account director"
+msgstr ""
+
+#: View/Pages/aboutus.ctp:107
+msgid "It is natural that our most experienced in the team also is the person who\ngives all the teams the right strength to win markets. He has manage the finances in a way, so the account team always have the close steering of the money flow – so valuable experiences for developing concept."
+msgstr ""
+
+#: View/Pages/aboutus.ctp:120
+msgid "Arturas Gusevas"
+msgstr ""
+
+#: View/Pages/aboutus.ctp:121
+msgid "Design and National sale."
+msgstr ""
+
+#: View/Pages/aboutus.ctp:122
+msgid "He has for more years been the natural contact for national design and signjobs."
+msgstr ""
+
+#: View/Pages/home.ctp:25;33;41
+msgid "Welcome to Fantazi"
+msgstr ""
+
+#: View/Pages/home.ctp:26;34;42
+msgid "Our team is here to Improve your sign Business"
+msgstr ""
+
+#: View/Pages/home.ctp:27;35;43
+msgid "Marketing consulting"
+msgstr ""
+
+#: View/Pages/home.ctp:27;35;43
+msgid "Be your own designer"
+msgstr ""
+
+#: View/Pages/home.ctp:49
+#: View/Products/product.ctp:28
+msgid "Previous"
+msgstr ""
+
+#: View/Pages/home.ctp:53
+#: View/Products/product.ctp:30
+#: View/Web/editproduct.ctp:15
+msgid "Next"
+msgstr ""
+
+#: View/Pages/home.ctp:61
+msgid "How to do"
+msgstr ""
+
+#: View/Pages/home.ctp:79
+msgid "Design Yourself Products"
+msgstr ""
+
+#: View/Pages/home.ctp:134
+msgid "Our Client"
+msgstr ""
+
+#: View/Pages/home.ctp:251
+msgid "Tryk & Grafisk Design"
+msgstr ""
+
+#: View/Pages/home.ctp:259
+msgid "Medieplanlaegning"
+msgstr ""
+
+#: View/Pages/home.ctp:267
+msgid "Profil & Jobtoi"
+msgstr ""
+
+#: View/Pages/home.ctp:275
+msgid "Stro & Gaveartilier"
+msgstr ""
+
+#: View/Pages/home.ctp:283
+msgid "Emballagedesign"
+msgstr ""
+
+#: View/Pages/home.ctp:291
+msgid "Skilte & bilreklame"
+msgstr ""
+
+#: View/Pages/home.ctp:299
+msgid "Webdesign & hosting"
+msgstr ""
+
+#: View/Pages/home.ctp:307
+msgid "TV & radioreklamer "
+msgstr ""
+
+#: View/Pdetails/admin_add.ctp:13
+msgid "Add Product Detail"
+msgstr ""
+
+#: View/Pdetails/admin_index.ctp:15
+msgid "Pdetails Management"
+msgstr ""
+
+#: View/Pdetails/admin_index.ctp:17
+msgid "Pdetails"
+msgstr ""
+
+#: View/Pdetails/detail.ctp:8
+msgid "Print & Graphic Design"
+msgstr ""
+
+#: View/Pdetails/detail.ctp:24
+msgid "With our own developed drawing program you can design your own paper poster to the shop, exhibition room, company, etc. Use your creativity and upload images, add text, add shapes, change colors - it is YOU who decides!\nThe product is printed with a 6 colored solvent photo printer from Roland that provides a crisp layout with durability in outdoor quality."
+msgstr ""
+
+#: View/Pdetails/detail.ctp:30
+msgid "Here you can design your own sign - get creative with!"
+msgstr ""
+
+#: View/Pdetails/detail.ctp:37
+msgid "Select design and customize the design program subsequent"
+msgstr ""
+
+#: View/Pdetails/detail.ctp:39
+msgid "template"
+msgstr ""
+
+#: View/Pdetails/detail.ctp:52
+msgid "Gallery"
+msgstr ""
+
+#: View/Pdetails/detail.ctp:53
+msgid "See our customer's design or search for inspiration in our galleries. Inspration and get some ideas."
+msgstr ""
+
+#: View/Products/admin_add.ctp:37
+msgid "Product Price"
+msgstr ""
+
+#: View/Products/admin_add.ctp:45
+msgid "Select Category"
+msgstr ""
+
+#: View/Products/admin_add.ctp:57
+msgid "Select Article"
+msgstr ""
+
+#: View/Products/admin_edit.ctp:4
+#: View/Products - Copy/admin_edit.ctp:4
+msgid "Admin Edit Product"
+msgstr ""
+
+#: View/Products/admin_view.ctp:37
+msgid "Order id:"
+msgstr ""
+
+#: View/Products/admin_view.ctp:41
+msgid "Self Create product id:"
+msgstr ""
+
+#: View/Products/greg.ctp:4
+#: View/Products - Copy/greg.ctp:4
+msgid "Admin Add Product"
+msgstr ""
+
+#: View/Products/product.ctp:4
+msgid "Design yourself products"
+msgstr ""
+
+#: View/Sliders/add.ctp:4
+msgid "Add Slider"
+msgstr ""
+
+#: View/Sliders/add.ctp:17
+#: View/Sliders/admin_add.ctp:17
+#: View/Sliders/admin_edit.ctp:19
+#: View/Sliders/admin_view.ctp:36
+#: View/Sliders/edit.ctp:19
+#: View/Sliders/view.ctp:36
+msgid "List Sliders"
+msgstr ""
+
+#: View/Sliders/admin_add.ctp:4
+msgid "Admin Add Slider"
+msgstr ""
+
+#: View/Sliders/admin_edit.ctp:4
+msgid "Admin Edit Slider"
+msgstr ""
+
+#: View/Sliders/admin_index.ctp:2
+#: View/Sliders/index.ctp:2
+msgid "Sliders"
+msgstr ""
+
+#: View/Sliders/admin_index.ctp:48
+#: View/Sliders/admin_view.ctp:37
+#: View/Sliders/index.ctp:48
+#: View/Sliders/view.ctp:37
+msgid "New Slider"
+msgstr ""
+
+#: View/Sliders/admin_view.ctp:2
+#: View/Sliders/view.ctp:2
+msgid "Slider"
+msgstr ""
+
+#: View/Sliders/admin_view.ctp:14
+#: View/Sliders/view.ctp:14
+msgid "Title"
+msgstr ""
+
+#: View/Sliders/admin_view.ctp:19
+#: View/Sliders/view.ctp:19
+msgid "Content"
+msgstr ""
+
+#: View/Sliders/admin_view.ctp:34
+#: View/Sliders/edit.ctp:4
+#: View/Sliders/view.ctp:34
+msgid "Edit Slider"
+msgstr ""
+
+#: View/Sliders/admin_view.ctp:35
+#: View/Sliders/view.ctp:35
+msgid "Delete Slider"
+msgstr ""
+
+#: View/Subcategories/add.ctp:4
+msgid "Add Subcategory"
+msgstr ""
+
+#: View/Subcategories/add.ctp:17
+#: View/Subcategories/admin_edit.ctp:19
+#: View/Subcategories/admin_view.ctp:31
+#: View/Subcategories/edit.ctp:19
+#: View/Subcategories/fdsfsff.ctp:17
+#: View/Subcategories/view.ctp:31
+msgid "List Subcategories"
+msgstr ""
+
+#: View/Subcategories/add.ctp:19
+#: View/Subcategories/admin_edit.ctp:21
+#: View/Subcategories/admin_index.ctp:50
+#: View/Subcategories/admin_view.ctp:34
+#: View/Subcategories/edit.ctp:21
+#: View/Subcategories/fdsfsff.ctp:19
+#: View/Subcategories/index.ctp:50
+#: View/Subcategories/view.ctp:34
+msgid "New Categories"
+msgstr ""
+
+#: View/Subcategories/admin_edit.ctp:4
+msgid "Admin Edit Subcategory"
+msgstr ""
+
+#: View/Subcategories/admin_index.ctp:2
+#: View/Subcategories/index.ctp:2
+msgid "Subcategories"
+msgstr ""
+
+#: View/Subcategories/admin_index.ctp:48
+#: View/Subcategories/admin_view.ctp:32
+#: View/Subcategories/index.ctp:48
+#: View/Subcategories/view.ctp:32
+msgid "New Subcategory"
+msgstr ""
+
+#: View/Subcategories/admin_view.ctp:2
+#: View/Subcategories/view.ctp:2
+msgid "Subcategory"
+msgstr ""
+
+#: View/Subcategories/admin_view.ctp:29
+#: View/Subcategories/edit.ctp:4
+#: View/Subcategories/view.ctp:29
+msgid "Edit Subcategory"
+msgstr ""
+
+#: View/Subcategories/admin_view.ctp:30
+#: View/Subcategories/view.ctp:30
+msgid "Delete Subcategory"
+msgstr ""
+
+#: View/Subcategories/fdsfsff.ctp:4
+msgid "Admin Add Subcategory"
+msgstr ""
+
+#: View/Subscribers/add.ctp:4
+msgid "Add Subscriber"
+msgstr ""
+
+#: View/Subscribers/add.ctp:17
+#: View/Subscribers/admin_edit.ctp:28
+#: View/Subscribers/admin_view.ctp:41
+#: View/Subscribers/edit.ctp:19
+#: View/Subscribers/view.ctp:31
+msgid "List Subscribers"
+msgstr ""
+
+#: View/Subscribers/admin_edit.ctp:13
+msgid "Admin Edit Subscriber"
+msgstr ""
+
+#: View/Subscribers/admin_index.ctp:58
+msgid "Send Newsletter"
+msgstr ""
+
+#: View/Subscribers/admin_view.ctp:12
+#: View/Subscribers/view.ctp:2
+msgid "Subscriber"
+msgstr ""
+
+#: View/Subscribers/admin_view.ctp:39
+#: View/Subscribers/edit.ctp:4
+#: View/Subscribers/view.ctp:29
+msgid "Edit Subscriber"
+msgstr ""
+
+#: View/Subscribers/admin_view.ctp:40
+#: View/Subscribers/view.ctp:30
+msgid "Delete Subscriber"
+msgstr ""
+
+#: View/Subscribers/admin_view.ctp:42
+#: View/Subscribers/index.ctp:46
+#: View/Subscribers/view.ctp:32
+msgid "New Subscriber"
+msgstr ""
+
+#: View/Subscribers/index.ctp:2
+msgid "Subscribers"
+msgstr ""
+
+#: View/Users/add.ctp:4
+msgid "Add User"
+msgstr ""
+
+#: View/Users/admin_add.ctp:13;15
+msgid "Add Users"
+msgstr ""
+
+#: View/Users/admin_add.ctp:53
+msgid "Save"
+msgstr ""
+
+#: View/Users/admin_changepassword.ctp:13
+msgid "Change Password"
+msgstr ""
+
+#: View/Users/admin_edit.ctp:14
+#: View/Users/edit.ctp:4
+#: View/Users/newCtpTemplategder.ctp:55
+#: View/Users/view.ctp:39
+msgid "Edit User"
+msgstr ""
+
+#: View/Users/admin_edit.ctp:52
+msgid "Update"
+msgstr ""
+
+#: View/Users/newCtpTemplategder.ctp:25
+#: View/Users/view.ctp:9
+msgid "Username"
+msgstr ""
+
+#: View/Users/newCtpTemplategder.ctp:30
+#: View/Users/view.ctp:14
+msgid "Password"
+msgstr ""
+
+#: View/Users/newCtpTemplategder.ctp:56
+#: View/Users/view.ctp:40
+msgid "Delete User"
+msgstr ""
+
+#: View/Users/userlogin.ctp:13
+msgid "By creating an account on designselvskilte.dk you can see your orders, \n                                save your designs and reordering."
+msgstr ""
+
+#: View/Users/userlogin.ctp:33
+msgid "Welcome back to designselvskilte.dk. Please login and enjoy the many features!"
+msgstr ""
+
+#: View/Users/userlogin.ctp:34
+msgid "Username:"
+msgstr ""
+
+#: View/Users/userlogin.ctp:44
+msgid "Remember me"
+msgstr ""
+
+#: View/Users/userlogin.ctp:48
+msgid "Forgot your password?"
+msgstr ""
+
+#: View/Users/userlogin.ctp:48
+msgid " Click here."
+msgstr ""
+
+#: View/Users/userlogin.ctp:58
+msgid "You can use your username and password from your social media when you need to act on www.designselvskilte.dk. It is safe, easy and fast."
+msgstr ""
+
+#: Model/Contact.php:validation for field id
+#: Model/Newsletter.php:validation for field id
+msgid "naturalNumber"
+msgstr ""
+
+#: Model/Contact.php:validation for field first_name;validation for field last_name;validation for field gender;validation for field address;validation for field message
+#: Model/Newsletter.php:validation for field first_name;validation for field last_name
+#: Model/Subscriber.php:validation for field status
+#: Model/User.php:validation for field username;validation for field password;validation for field type
+msgid "notEmpty"
+msgstr ""
+
+#: Model/Contact.php:validation for field contact_no
+#: Model/Newsletter.php:validation for field user_id;validation for field status
+msgid "numeric"
+msgstr ""
+
+#: Model/Contact.php:validation for field timestamp
+#: Model/Subscriber.php:validation for field timestamp
+#: Model/User.php:validation for field timestamp
+msgid "datetime"
+msgstr ""
+
+#: Model/Newsletter.php:validation for field email
+#: Model/Subscriber.php:validation for field email
+#: Model/User.php:validation for field email
+msgid "email"
+msgstr ""
+

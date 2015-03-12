@@ -1,0 +1,30 @@
+
+
+@media screen and (max-width:640px){
+	
+.header	.navbar-nav > li {width:100%;}
+.header	.navbar-nav > li{padding: 5px 15px;}
+.header .navbar-default .navbar-nav > li > a{background:none;}
+.header	.navbar-nav > li:hover {background:#ec6707;}
+.header	.navbar-nav > li:hover a{color:#fff !important;}
+
+.carousel-caption {left: 25% !important; width: 50%;}
+.banner_btns a {font-size: 11px; padding: 5px;}
+.carousel-caption p {font-size: 14px; margin:0;}
+.carousel-caption h3 {font-size: 20px; margin:0;}
+
+
+	}
+@media screen and (max-width:480px){
+
+.carousel-caption {left: 12% !important; width: 76%;}
+.banner_btns a {font-size: 11px; padding: 5px;}
+.carousel-caption p {font-size: 14px; margin:0;}
+.carousel-caption h3 {font-size: 20px; margin:0;}
+
+	}
+@media screen and (max-width:360px){
+
+.carousel-caption {left: 0% !important; width: 100%;}
+
+	}

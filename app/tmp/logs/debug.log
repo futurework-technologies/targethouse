@@ -1,0 +1,95 @@
+2014-12-24 22:49:40 Debug: Notice (8): Undefined variable: slider in [C:\wamp\www\fantazi.dk\app\View\Elements\banner.ctp, line 12]
+Trace:
+include - APP\View\Elements\banner.ctp, line 12
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::_renderElement() - CORE\Cake\View\View.php, line 1217
+View::element() - CORE\Cake\View\View.php, line 418
+include - APP\View\Layouts\front.ctp, line 133
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::renderLayout() - CORE\Cake\View\View.php, line 546
+View::render() - CORE\Cake\View\View.php, line 481
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 289
+ExceptionRenderer::error500() - CORE\Cake\Error\ExceptionRenderer.php, line 257
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 187
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 119
+[main] - [internal], line ??
+
+2014-12-24 22:49:50 Debug: Notice (8): Undefined variable: slider in [C:\wamp\www\fantazi.dk\app\View\Elements\banner.ctp, line 12]
+Trace:
+include - APP\View\Elements\banner.ctp, line 12
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::_renderElement() - CORE\Cake\View\View.php, line 1217
+View::element() - CORE\Cake\View\View.php, line 418
+include - APP\View\Layouts\front.ctp, line 133
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::renderLayout() - CORE\Cake\View\View.php, line 546
+View::render() - CORE\Cake\View\View.php, line 481
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 289
+ExceptionRenderer::error500() - CORE\Cake\Error\ExceptionRenderer.php, line 257
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 187
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 119
+[main] - [internal], line ??
+
+2014-12-24 22:50:24 Debug: Notice (8): Undefined variable: slider in [C:\wamp\www\fantazi.dk\app\View\Elements\banner.ctp, line 12]
+Trace:
+include - APP\View\Elements\banner.ctp, line 12
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::_renderElement() - CORE\Cake\View\View.php, line 1217
+View::element() - CORE\Cake\View\View.php, line 418
+include - APP\View\Layouts\front.ctp, line 133
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::renderLayout() - CORE\Cake\View\View.php, line 546
+View::render() - CORE\Cake\View\View.php, line 481
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 289
+ExceptionRenderer::error500() - CORE\Cake\Error\ExceptionRenderer.php, line 257
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 187
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 119
+[main] - [internal], line ??
+
+2014-12-24 23:03:26 Debug: Notice (8): Undefined variable: slider in [C:\wamp\www\fantazi.dk\app\View\Elements\banner.ctp, line 12]
+Trace:
+include - APP\View\Elements\banner.ctp, line 12
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::_renderElement() - CORE\Cake\View\View.php, line 1217
+View::element() - CORE\Cake\View\View.php, line 418
+include - APP\View\Layouts\front.ctp, line 133
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::renderLayout() - CORE\Cake\View\View.php, line 546
+View::render() - CORE\Cake\View\View.php, line 481
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 289
+ExceptionRenderer::error500() - CORE\Cake\Error\ExceptionRenderer.php, line 257
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 187
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 119
+[main] - [internal], line ??
+
+2014-12-24 23:03:32 Debug: Notice (8): Undefined variable: slider in [C:\wamp\www\fantazi.dk\app\View\Elements\banner.ctp, line 12]
+Trace:
+include - APP\View\Elements\banner.ctp, line 12
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::_renderElement() - CORE\Cake\View\View.php, line 1217
+View::element() - CORE\Cake\View\View.php, line 418
+include - APP\View\Layouts\front.ctp, line 133
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::renderLayout() - CORE\Cake\View\View.php, line 546
+View::render() - CORE\Cake\View\View.php, line 481
+Controller::render() - CORE\Cake\Controller\Controller.php, line 959
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 289
+ExceptionRenderer::error500() - CORE\Cake\Error\ExceptionRenderer.php, line 257
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 187
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 119
+[main] - [internal], line ??
+

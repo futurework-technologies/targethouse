@@ -1,0 +1,16 @@
+<svg:svg xmlns:svg="http://www.w3.org/2000/svg"
+         xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"
+         viewBox="-52 -53 100 100" stroke-width="2">
+ <svg:g fill="none">
+  <svg:ellipse stroke="#66899a" rx="6" ry="44"/>
+  <svg:ellipse stroke="#e1d85d" rx="6" ry="44" transform="rotate(-66)"/>
+  <svg:ellipse stroke="#80a3cf" rx="6" ry="44" transform="rotate(66)"/>
+  <svg:circle  stroke="#4b541f" r="44"/>
+ </svg:g>
+ <svg:g fill="#66899a" stroke="white">
+  <svg:circle fill="#80a3cf" r="13"/>
+  <svg:circle cy="-44" r="9"/>
+  <svg:circle cx="-40" cy="18" r="9"/>
+  <svg:circle cx="40" cy="18" r="9"/>
+ </svg:g>
+</svg:svg>

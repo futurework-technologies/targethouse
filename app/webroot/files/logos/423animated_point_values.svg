@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" baseProfile="full" version="1.1" viewBox="0 0 200 200">
+  <style type="text/css"><![CDATA[
+    circle { opacity:0.5 }
+    #c1 { fill:green }
+    #c2 { fill:blue }
+  ]]></style>
+  <line id="line" x1="100" y1="100" x2="150" y2="150" stroke="red">
+   <animateTransform
+      attributeName="transform"
+      begin="0s"       dur="15s"
+      type="rotate"    repeatCount="indefinite" 
+      from="0 100 100" to="360 100 100"
+    />
+  </line>
+  <circle id="c1" r="5" />
+  <circle id="c2" r="5" />
+  <text y="30">Hello</text>
+  <script type="text/javascript">
+  var svg  = document.documentElement;
+  var line = document.getElementById('line')
+  var pt1 = svg.createSVGPoint(), pt2 = svg.createSVGPoint();
+  pt1.x = line.x1.baseVal.value; pt1.y = line.y1.baseVal.value;
+  pt2.x = line.x2.baseVal.value; pt2.y = line.y2.baseVal.value;
+  var c1 = document.getElementById('c1');
+  var c2 = document.getElementById('c2');
+  var t  = document.getElementsByTagName('text')[0].childNodes[0];
+  setInterval(function(){
+    var lineToSVG = line.getTransformToElement(svg);
+    var p1 = pt1.matrixTransform( lineToSVG );
+    var p2 = pt2.matrixTransform( lineToSVG );
+    c1.cx.baseVal.value = p1.x; c1.cy.baseVal.value = p1.y;
+    c2.cx.baseVal.value = p2.x; c2.cy.baseVal.value = p2.y;
+    var angle = Math.round(Math.atan2(p2.y-p1.y,p2.x-p1.x)*180/Math.PI);
+    t.nodeValue = "Angle:" + angle +"°";
+  }, 20);
+  </script>
+</svg>

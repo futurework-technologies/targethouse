@@ -1,0 +1,14 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <g stroke="#000" fill="#fff" id="disk">
+   <path id="svg_1" fill="#693" d="m-40,-9l0,18a40,9 0 1 0 80,0l0,-18a40,9 0 1 0 -80,0a40,9 0 1 0 80,0"/>
+  </g>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <use id="svg_2" y="76" x="50" xlink:href="#disk"/>
+  <use id="svg_3" y="58" x="50" xlink:href="#disk"/>
+  <use id="svg_4" y="40" x="50" xlink:href="#disk"/>
+  <use id="svg_5" y="22" x="50" xlink:href="#disk"/>
+ </g>
+</svg>
